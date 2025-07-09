@@ -5,9 +5,16 @@ from predictor import predict_carbon_footprint
 
 app = FastAPI(title="Carbon Footprint Estimator API")
 
+# ✅ Allow your Netlify frontend
+origins = [
+    "http://localhost",
+    "http://localhost:3000",
+    "https://ecolytics.netlify.app",  # 👈 your deployed frontend
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://ecolytics.netlify.app/"],  # or ["http://127.0.0.1:3000"] for stricter
+    allow_origins=origins,           # 👈 set allowed domains
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
