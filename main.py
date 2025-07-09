@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from backend.schema import CarbonInput
-from backend.predictor import predict_carbon_footprint
+from schema import CarbonInput
+from predictor import predict_carbon_footprint
 
 app = FastAPI(title="Carbon Footprint Estimator API")
 
