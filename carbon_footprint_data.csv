@@ -1,0 +1,1021 @@
+private_km_per_week,fuel_type,public_km_per_week,electricity_per_month_kwh,uses_renewable_energy,meat_frequency,dairy_frequency,short_flights_per_year,long_flights_per_year,clothing_shopping_freq,electronics_shopping_freq,recycles_regularly,waste_kg_per_week,household_size,home_type,annual_carbon_footprint_tonnes
+315.0,Electric,223,576.0,0,Monthly,Daily,6,1,Quarterly,Never,1,10.46,2,Independent,0.11
+278.0,Electric,292,50.0,1,Weekly,Weekly,1,4,Never,Monthly,1,9.21,3,Apartment,0.07
+35.0,CNG,266,654.0,0,Monthly,Occasionally,3,4,Never,Rarely,1,14.43,4,Independent,0.1
+160.0,Petrol,246,784.0,1,Daily,Occasionally,7,0,Monthly,Rarely,1,16.25,7,Rented Room,0.12
+88.0,Diesel,48,299.0,0,Weekly,Weekly,6,3,Rarely,Rarely,0,5.38,6,Independent,0.06
+369.0,Electric,140,282.0,1,Daily,Occasionally,8,0,Monthly,Yearly,0,14.76,3,Rented Room,0.09
+447.0,Diesel,197,663.0,1,Weekly,Daily,0,4,Monthly,Rarely,1,9.81,7,Rented Room,0.16
+313.0,CNG,238,489.0,0,Weekly,Daily,7,2,Never,Rarely,1,13.76,6,Rented Room,0.14
+454.0,CNG,217,158.0,0,Weekly,Weekly,2,1,Monthly,Yearly,1,11.69,6,Bungalow,0.14
+276.0,Electric,194,678.0,0,Weekly,Never,1,2,Rarely,Rarely,1,2.73,7,Rented Room,0.09
+491.0,Diesel,76,,0,Never,Weekly,1,1,Quarterly,Never,1,2.29,4,Rented Room,0.17
+52.0,Diesel,71,237.0,1,Monthly,Never,0,0,Quarterly,Monthly,1,4.31,5,Bungalow,0.04
+256.0,Petrol,171,272.0,1,Monthly,Daily,0,1,Never,Never,1,14.48,3,Rented Room,0.1
+483.0,Petrol,67,709.0,1,Weekly,Occasionally,3,2,Never,Yearly,1,13.87,6,Bungalow,0.15
+,Petrol,147,745.0,0,Weekly,Weekly,9,4,Monthly,Rarely,1,9.63,2,Bungalow,0.15
+232.0,Diesel,257,,1,Daily,Occasionally,8,3,Never,Rarely,0,9.82,5,Rented Room,0.1
+246.0,Petrol,76,722.0,0,Weekly,Occasionally,7,2,Never,Never,1,4.23,3,Apartment,0.11
+202.0,Diesel,76,287.0,1,Weekly,Daily,6,1,Monthly,Rarely,0,8.86,3,Bungalow,0.08
+46.0,Diesel,139,596.0,0,Never,Occasionally,5,1,Never,Never,1,10.58,6,Bungalow,0.09
+,Petrol,283,268.0,0,Daily,Weekly,3,4,Never,Monthly,1,10.22,5,Rented Room,0.14
+217.0,CNG,159,167.0,1,Monthly,Daily,3,3,Quarterly,Rarely,1,14.35,1,Independent,0.09
+416.0,Diesel,27,68.0,0,Daily,Occasionally,0,0,Never,Never,1,3.76,2,Independent,0.11
+,Petrol,235,425.0,0,Weekly,Never,0,2,Quarterly,Never,0,10.48,7,Apartment,0.11
+297.0,CNG,58,526.0,0,Weekly,Daily,9,2,Never,Monthly,0,16.4,1,Rented Room,0.14
+19.0,Petrol,264,281.0,0,,Occasionally,4,1,Monthly,Rarely,1,5.79,4,Rented Room,0.05
+379.0,CNG,135,244.0,0,Daily,Occasionally,1,3,Never,Monthly,0,18.93,2,Independent,0.15
+384.0,Petrol,3,,0,Daily,Weekly,1,1,Rarely,Never,1,6.88,4,Apartment,0.12
+289.0,Diesel,145,494.0,1,Monthly,Weekly,5,1,Quarterly,Never,1,4.73,6,Rented Room,0.1
+147.0,Electric,86,732.0,0,Never,Never,1,4,Rarely,Rarely,0,10.84,6,Apartment,0.09
+336.0,CNG,65,493.0,0,Monthly,Never,7,2,Quarterly,Rarely,0,10.61,2,Bungalow,0.13
+280.0,Petrol,288,176.0,0,Daily,Weekly,3,4,Rarely,Rarely,1,6.26,4,Independent,0.1
+162.0,CNG,144,500.0,0,Weekly,Daily,7,1,Never,Monthly,1,10.72,6,Rented Room,0.1
+414.0,Electric,287,314.0,0,Never,Occasionally,4,1,Quarterly,Rarely,1,3.5,4,Independent,0.1
+143.0,Electric,230,153.0,1,Never,Weekly,9,4,Monthly,Rarely,0,11.96,4,Apartment,0.06
+67.0,Electric,163,582.0,0,,Daily,9,2,Never,Monthly,1,8.37,7,Apartment,0.07
+276.0,Electric,157,393.0,0,Never,Weekly,4,4,Rarely,Rarely,0,12.12,1,Apartment,0.1
+65.0,Diesel,270,642.0,0,,Never,1,4,Monthly,Monthly,1,11.42,7,Rented Room,0.11
+146.0,Petrol,219,578.0,1,Never,Never,4,3,Quarterly,Monthly,1,6.4,1,Rented Room,0.08
+452.0,Diesel,49,275.0,0,Never,Daily,0,2,Never,Yearly,1,14.93,4,Apartment,0.16
+406.0,Electric,250,779.0,0,Daily,Daily,0,1,Rarely,Never,1,15.92,5,Rented Room,0.15
+85.0,Petrol,41,133.0,1,Weekly,Weekly,1,3,Quarterly,Rarely,0,19.5,2,Bungalow,0.07
+348.0,Electric,77,373.0,1,Weekly,Occasionally,4,1,Quarterly,Never,0,8.57,6,Apartment,0.08
+,Diesel,78,710.0,0,Daily,Daily,3,0,Quarterly,Yearly,1,11.86,1,Bungalow,0.1
+262.0,Diesel,201,421.0,1,Weekly,Weekly,6,1,Monthly,Never,0,9.9,5,Independent,0.11
+146.0,Diesel,187,582.0,0,Daily,Weekly,6,3,Never,Never,0,1.29,1,Bungalow,0.09
+,Electric,183,330.0,0,,Occasionally,1,3,Never,Yearly,1,9.89,6,Independent,0.09
+173.0,Electric,172,631.0,1,Never,Weekly,7,2,Never,Yearly,1,14.69,5,Rented Room,0.08
+455.0,Petrol,144,343.0,0,,Occasionally,5,1,Rarely,Yearly,1,5.9,6,Rented Room,0.14
+384.0,Petrol,45,553.0,1,Monthly,Occasionally,4,0,Rarely,Never,0,3.22,6,Apartment,0.1
+129.0,Petrol,85,57.0,0,Weekly,Weekly,7,3,Quarterly,Never,1,3.48,3,Apartment,0.05
+228.0,Petrol,151,382.0,0,Never,Occasionally,1,1,Never,Yearly,1,2.71,5,Rented Room,0.08
+36.0,Petrol,237,173.0,1,Monthly,Never,2,1,Never,Never,0,18.34,6,Apartment,0.07
+20.0,Diesel,60,777.0,0,Weekly,Never,9,3,Quarterly,Yearly,1,2.25,4,Bungalow,0.07
+188.0,CNG,149,719.0,0,Never,Weekly,5,4,Rarely,Never,0,10.94,6,Rented Room,0.12
+325.0,Electric,177,668.0,0,Monthly,Occasionally,2,2,Quarterly,Monthly,0,19.18,7,Independent,0.13
+466.0,Petrol,13,280.0,1,Weekly,Daily,3,1,Rarely,Rarely,1,11.15,7,Bungalow,0.12
+120.0,Electric,11,193.0,1,Monthly,Never,2,2,Quarterly,Monthly,1,5.31,7,Bungalow,0.04
+351.0,Diesel,11,318.0,1,Daily,Weekly,4,1,Monthly,Monthly,0,6.36,5,Independent,0.1
+167.0,CNG,120,,1,Daily,Never,9,0,Rarely,Rarely,1,14.92,7,Independent,0.1
+387.0,Diesel,8,399.0,0,Daily,Daily,4,0,Never,Rarely,1,7.83,5,Apartment,0.14
+435.0,Diesel,102,160.0,0,Never,Daily,6,0,Monthly,Rarely,0,18.66,1,Rented Room,0.17
+130.0,Diesel,187,582.0,0,Never,Occasionally,1,4,Never,Monthly,0,8.52,2,Apartment,0.1
+239.0,Electric,261,535.0,0,Daily,Daily,3,2,Never,Rarely,0,14.2,3,Bungalow,0.11
+98.0,CNG,222,447.0,1,Never,Weekly,3,4,Monthly,Monthly,1,17.36,4,Bungalow,0.09
+133.0,Diesel,129,77.0,1,Monthly,Occasionally,7,3,Never,Monthly,0,1.98,1,Independent,0.04
+276.0,Petrol,250,636.0,0,Monthly,Weekly,5,4,Rarely,Yearly,1,16.5,2,Independent,0.15
+185.0,Diesel,280,136.0,0,Monthly,Never,7,1,Rarely,Monthly,0,2.65,4,Apartment,0.08
+245.0,CNG,148,,1,Weekly,Weekly,2,1,Quarterly,Yearly,0,14.05,2,Independent,0.1
+319.0,Electric,192,632.0,1,Monthly,Weekly,2,2,Rarely,Yearly,1,8.18,5,Apartment,0.09
+343.0,Petrol,209,258.0,1,Weekly,Daily,2,2,Rarely,Yearly,1,10.14,4,Bungalow,0.11
+373.0,Electric,152,,0,Never,Occasionally,2,3,Never,Rarely,0,12.2,2,Rented Room,0.11
+3.0,Petrol,11,324.0,1,,Weekly,7,2,Never,Rarely,0,17.1,6,Rented Room,0.06
+270.0,Diesel,136,532.0,0,Daily,Weekly,6,2,Quarterly,Rarely,0,8.1,2,Rented Room,0.13
+400.0,Petrol,212,233.0,0,Never,Weekly,6,2,Monthly,Yearly,1,2.51,7,Rented Room,0.11
+313.0,Electric,276,622.0,0,Never,Weekly,6,4,Never,Never,0,6.01,4,Independent,0.11
+284.0,CNG,166,786.0,0,Weekly,Occasionally,8,2,Quarterly,Rarely,1,15.68,1,Independent,0.16
+252.0,Diesel,192,271.0,1,Weekly,Daily,9,3,Quarterly,Yearly,1,2.86,5,Rented Room,0.08
+315.0,Petrol,125,499.0,0,Weekly,Daily,3,1,Quarterly,Yearly,0,6.49,6,Apartment,0.12
+249.0,Petrol,26,399.0,0,Daily,Never,1,4,Quarterly,Yearly,1,10.13,4,Independent,0.11
+354.0,Diesel,64,381.0,1,Weekly,Occasionally,3,0,Quarterly,Yearly,1,3.96,5,Bungalow,0.1
+356.0,CNG,235,160.0,0,Monthly,Never,7,4,Never,Rarely,1,11.95,2,Apartment,0.13
+89.0,CNG,17,407.0,1,Weekly,Daily,8,1,Monthly,Rarely,1,14.34,2,Rented Room,0.07
+81.0,Diesel,170,102.0,0,Daily,Occasionally,8,2,Rarely,Yearly,1,17.38,5,Independent,0.09
+479.0,Petrol,158,185.0,0,Daily,Occasionally,4,0,Monthly,Monthly,1,17.06,1,Independent,0.16
+353.0,Diesel,299,125.0,0,Never,Daily,5,2,Never,Yearly,0,3.73,3,Rented Room,0.12
+44.0,Diesel,156,622.0,1,Monthly,Weekly,3,1,Monthly,Rarely,1,7.03,3,Independent,0.07
+375.0,Electric,290,674.0,0,Weekly,Occasionally,0,4,Rarely,Yearly,0,7.33,2,Bungalow,0.12
+223.0,Diesel,128,227.0,0,Weekly,Daily,4,1,Never,Monthly,1,10.14,6,Apartment,0.1
+301.0,Electric,37,470.0,0,Weekly,Occasionally,1,1,Rarely,Yearly,0,14.11,2,Bungalow,0.1
+289.0,Electric,199,468.0,0,Monthly,Never,5,3,Monthly,Monthly,1,15.59,1,Rented Room,0.11
+474.0,Petrol,244,181.0,0,Never,Never,6,1,Monthly,Monthly,1,2.8,6,Independent,0.13
+,Diesel,57,563.0,0,Monthly,Weekly,4,4,Rarely,Rarely,1,9.3,6,Apartment,0.11
+279.0,Diesel,219,317.0,0,Never,Occasionally,9,2,Monthly,Monthly,1,6.49,2,Rented Room,0.12
+416.0,Diesel,247,,1,Weekly,Daily,2,2,Quarterly,Yearly,1,1.36,3,Independent,0.1
+200.0,CNG,21,616.0,0,Weekly,Never,6,4,Monthly,Rarely,1,16.41,4,Independent,0.13
+13.0,Diesel,198,211.0,0,Daily,Daily,3,4,Rarely,Never,0,3.41,5,Rented Room,0.04
+,CNG,241,534.0,0,Daily,Daily,0,3,Quarterly,Never,0,19.27,1,Bungalow,0.14
+241.0,Electric,51,719.0,0,Weekly,Never,5,3,Rarely,Never,1,2.11,2,Apartment,0.08
+415.0,CNG,217,757.0,0,Weekly,Occasionally,6,1,Quarterly,Monthly,1,4.06,2,Bungalow,0.15
+450.0,CNG,296,,1,Never,Weekly,3,4,Quarterly,Rarely,1,6.6,5,Rented Room,0.12
+112.0,CNG,8,262.0,1,Never,Daily,6,0,Monthly,Never,1,12.08,1,Independent,0.06
+461.0,Diesel,136,173.0,1,Daily,Daily,5,4,Rarely,Never,1,12.23,7,Bungalow,0.14
+302.0,CNG,190,80.0,0,Never,Weekly,2,3,Rarely,Never,1,18.01,4,Rented Room,0.12
+433.0,Petrol,81,694.0,0,Never,Weekly,8,0,Never,Never,1,2.74,2,Rented Room,0.14
+438.0,CNG,232,608.0,0,Never,Weekly,4,2,Quarterly,Yearly,0,13.17,5,Apartment,0.17
+,Diesel,67,154.0,0,Monthly,Never,3,1,Quarterly,Yearly,0,13.52,2,Bungalow,0.16
+371.0,CNG,121,436.0,0,Never,Weekly,0,1,Quarterly,Monthly,0,17.31,3,Rented Room,0.15
+320.0,Petrol,232,753.0,0,Never,Occasionally,8,3,Monthly,Yearly,0,6.63,7,Apartment,0.14
+272.0,Electric,158,494.0,0,Weekly,Occasionally,3,3,Quarterly,Rarely,1,9.36,4,Bungalow,0.1
+246.0,Electric,224,121.0,1,,Daily,6,0,Monthly,Never,0,9.55,2,Independent,0.06
+241.0,CNG,199,529.0,0,Weekly,Daily,6,2,Monthly,Rarely,1,6.18,5,Bungalow,0.11
+99.0,CNG,229,317.0,1,Monthly,Weekly,1,4,Rarely,Never,1,8.88,1,Apartment,0.07
+445.0,Electric,88,309.0,0,,Daily,7,2,Monthly,Rarely,1,14.49,4,Rented Room,0.12
+389.0,Electric,19,162.0,1,Daily,Occasionally,1,3,Never,Monthly,1,12.2,1,Independent,0.08
+387.0,Diesel,61,104.0,0,Daily,Weekly,6,1,Monthly,Never,0,8.17,5,Apartment,0.12
+282.0,Diesel,182,797.0,1,Daily,Occasionally,7,0,Monthly,Rarely,0,11.52,1,Rented Room,0.14
+382.0,Petrol,86,326.0,0,Daily,Daily,9,4,Quarterly,Never,1,19.94,2,Apartment,0.16
+,Electric,91,690.0,0,Daily,Occasionally,5,0,Never,Monthly,1,1.5,4,Rented Room,0.06
+151.0,Diesel,163,,0,Never,Occasionally,5,2,Monthly,Never,1,11.99,6,Apartment,0.09
+47.0,CNG,174,,1,Daily,Daily,9,0,Monthly,Yearly,1,17.24,2,Bungalow,0.06
+150.0,Diesel,168,518.0,1,Daily,Daily,9,2,Quarterly,Rarely,0,12.48,1,Apartment,0.1
+324.0,CNG,263,130.0,0,Never,Never,2,4,Quarterly,Yearly,0,16.99,5,Rented Room,0.13
+268.0,Diesel,46,431.0,0,Monthly,Never,8,2,Never,Never,1,17.45,5,Rented Room,0.14
+251.0,Diesel,225,186.0,0,Daily,Occasionally,3,4,Quarterly,Yearly,1,16.16,7,Independent,0.13
+251.0,CNG,168,793.0,0,Never,Never,1,4,Monthly,Yearly,0,17.32,3,Independent,0.15
+399.0,Petrol,35,762.0,0,Monthly,Never,8,0,Quarterly,Yearly,1,18.02,2,Apartment,0.18
+141.0,Electric,220,228.0,0,Monthly,Never,4,3,Never,Never,1,5.07,5,Independent,0.06
+480.0,Petrol,244,776.0,0,Never,Daily,9,3,Quarterly,Rarely,1,9.94,1,Apartment,0.18
+395.0,Diesel,151,68.0,0,Daily,Daily,7,2,Never,Never,1,10.59,1,Bungalow,0.14
+135.0,Petrol,215,687.0,1,Monthly,Daily,3,2,Quarterly,Never,0,10.68,6,Bungalow,0.09
+38.0,Diesel,62,713.0,1,Daily,Never,4,1,Monthly,Rarely,0,16.66,7,Independent,0.09
+,CNG,128,350.0,1,Never,Never,5,0,Never,Yearly,1,8.06,6,Apartment,0.12
+,Diesel,24,174.0,1,Monthly,Weekly,4,0,Rarely,Monthly,1,10.38,2,Apartment,0.12
+47.0,Diesel,157,269.0,1,Monthly,Never,4,3,Monthly,Monthly,0,1.54,2,Rented Room,0.04
+469.0,Electric,122,675.0,0,Monthly,Never,5,0,Monthly,Monthly,1,13.8,5,Apartment,0.14
+345.0,Diesel,126,624.0,0,Monthly,Never,0,2,Quarterly,Monthly,1,10.88,3,Apartment,0.16
+445.0,Electric,141,237.0,0,Monthly,Weekly,8,2,Never,Monthly,1,7.93,1,Rented Room,0.11
+143.0,Electric,272,404.0,0,Monthly,Weekly,5,3,Never,Yearly,0,15.07,7,Rented Room,0.09
+462.0,Electric,45,581.0,0,Weekly,Weekly,5,2,Rarely,Never,0,15.98,7,Independent,0.14
+80.0,Petrol,31,146.0,0,Daily,Occasionally,1,0,Monthly,Rarely,1,1.91,4,Independent,0.03
+421.0,CNG,50,419.0,1,Daily,Weekly,0,1,Quarterly,Monthly,0,7.01,4,Apartment,0.11
+14.0,Petrol,241,,0,Monthly,Never,3,4,Rarely,Monthly,0,2.24,7,Bungalow,0.06
+,Petrol,171,667.0,1,Monthly,Occasionally,7,4,Rarely,Monthly,0,5.18,2,Independent,0.11
+356.0,Petrol,129,727.0,0,Monthly,Daily,0,3,Rarely,Never,0,15.51,5,Apartment,0.16
+190.0,CNG,231,106.0,0,Monthly,Daily,5,2,Quarterly,Rarely,0,3.04,2,Rented Room,0.07
+186.0,Diesel,284,539.0,0,Monthly,Daily,6,1,Rarely,Yearly,1,13.29,6,Bungalow,0.13
+34.0,Petrol,45,277.0,0,Daily,Weekly,1,1,Never,Monthly,1,8.95,4,Apartment,0.05
+274.0,CNG,59,378.0,0,Monthly,Never,3,2,Never,Rarely,1,6.72,2,Apartment,0.1
+219.0,Diesel,266,650.0,0,,Never,4,1,Never,Yearly,0,11.86,3,Bungalow,0.14
+343.0,CNG,236,631.0,0,Monthly,Occasionally,4,4,Rarely,Never,0,12.19,6,Apartment,0.15
+287.0,CNG,270,541.0,0,Never,Never,9,2,Rarely,Never,1,16.35,1,Bungalow,0.15
+130.0,CNG,72,565.0,0,Monthly,Never,1,1,Rarely,Never,1,7.02,4,Rented Room,0.08
+216.0,Electric,89,679.0,0,Daily,Weekly,1,4,Never,Yearly,0,2.63,6,Bungalow,0.08
+341.0,Electric,274,779.0,0,,Occasionally,5,0,Monthly,Rarely,1,10.86,1,Bungalow,0.13
+413.0,Petrol,15,682.0,1,Never,Never,3,3,Rarely,Monthly,0,7.9,4,Rented Room,0.13
+339.0,Petrol,62,368.0,0,Never,Daily,7,1,Rarely,Never,0,1.3,1,Bungalow,0.1
+91.0,CNG,292,455.0,0,Weekly,Weekly,2,3,Monthly,Yearly,0,11.14,5,Independent,0.09
+463.0,Petrol,238,791.0,0,Weekly,Daily,5,3,Quarterly,Yearly,0,6.49,1,Independent,0.17
+430.0,Diesel,72,543.0,0,Weekly,Never,7,2,Rarely,Rarely,1,9.68,3,Rented Room,0.17
+484.0,Petrol,163,648.0,0,Weekly,Never,7,2,Rarely,Yearly,1,9.79,4,Independent,0.17
+53.0,Electric,245,90.0,0,Monthly,Daily,1,4,Quarterly,Monthly,0,18.54,5,Bungalow,0.06
+96.0,CNG,222,178.0,0,Never,Daily,5,4,Rarely,Never,1,18.95,6,Bungalow,0.09
+34.0,Petrol,113,718.0,1,Weekly,Never,7,0,Monthly,Rarely,0,11.91,4,Independent,0.07
+326.0,Diesel,225,757.0,0,Monthly,Occasionally,1,0,Never,Monthly,1,9.89,1,Apartment,0.16
+89.0,CNG,257,,0,Monthly,Never,8,1,Rarely,Monthly,0,16.52,5,Independent,0.1
+163.0,Diesel,118,237.0,1,Never,Daily,7,2,Monthly,Monthly,1,5.18,6,Independent,0.06
+370.0,Diesel,152,504.0,0,Never,Occasionally,4,1,Quarterly,Yearly,1,7.18,2,Independent,0.14
+32.0,Electric,2,205.0,0,Never,Occasionally,4,2,Rarely,Never,1,1.8,4,Independent,0.02
+392.0,Petrol,49,669.0,0,Weekly,Daily,3,4,Rarely,Monthly,1,10.81,5,Bungalow,0.15
+144.0,CNG,25,620.0,0,,Daily,3,3,Rarely,Monthly,1,4.35,6,Apartment,0.08
+52.0,Diesel,91,557.0,0,,Daily,9,4,Never,Yearly,0,4.78,4,Rented Room,0.07
+219.0,Petrol,150,233.0,1,Daily,Daily,4,1,Never,Rarely,1,8.19,7,Apartment,0.08
+198.0,CNG,86,211.0,0,Weekly,Never,1,0,Rarely,Rarely,1,9.43,5,Bungalow,0.08
+242.0,Diesel,3,376.0,1,Never,Occasionally,5,4,Quarterly,Monthly,0,16.77,4,Apartment,0.11
+266.0,Diesel,118,402.0,0,Daily,Weekly,6,0,Rarely,Yearly,1,18.63,3,Independent,0.15
+328.0,Diesel,197,,0,Never,Daily,4,0,Monthly,Monthly,0,4.63,6,Bungalow,0.15
+440.0,CNG,287,,1,,Daily,0,3,Never,Monthly,1,14.69,1,Rented Room,0.16
+422.0,Electric,108,,1,Monthly,Daily,8,0,Quarterly,Never,0,7.62,2,Bungalow,0.09
+,CNG,160,56.0,0,Daily,Occasionally,4,2,Never,Rarely,1,9.94,6,Bungalow,0.04
+348.0,CNG,125,335.0,0,Daily,Daily,8,3,Quarterly,Yearly,1,5.75,5,Independent,0.12
+442.0,Petrol,63,300.0,0,Daily,Never,0,2,Rarely,Rarely,1,17.76,6,Apartment,0.16
+471.0,Petrol,272,704.0,0,Daily,Weekly,1,1,Rarely,Never,0,19.18,6,Apartment,0.2
+18.0,Diesel,253,354.0,0,Daily,Occasionally,8,0,Quarterly,Never,1,11.01,6,Independent,0.08
+168.0,CNG,162,491.0,1,Never,Occasionally,4,4,Quarterly,Yearly,0,10.76,3,Bungalow,0.09
+264.0,Diesel,266,158.0,1,Never,Never,3,4,Rarely,Never,1,3.35,2,Apartment,0.08
+216.0,CNG,67,418.0,0,Monthly,Occasionally,9,1,Rarely,Monthly,1,12.95,5,Rented Room,0.11
+,Petrol,135,671.0,0,Daily,Weekly,3,2,Rarely,Yearly,1,17.12,6,Apartment,0.16
+263.0,CNG,84,599.0,0,Monthly,Occasionally,4,1,Rarely,Rarely,1,19.0,6,Independent,0.14
+56.0,Petrol,177,263.0,1,Daily,Never,3,4,Monthly,Monthly,1,6.22,2,Rented Room,0.05
+238.0,CNG,260,461.0,1,Monthly,Daily,3,2,Quarterly,Yearly,0,12.73,5,Bungalow,0.11
+144.0,Electric,234,681.0,0,Weekly,Never,0,1,Quarterly,Never,0,3.75,4,Bungalow,0.07
+189.0,CNG,169,651.0,0,Daily,Never,6,1,Quarterly,Never,1,18.51,4,Bungalow,0.14
+,Diesel,185,709.0,0,Weekly,Daily,3,3,Monthly,Rarely,0,11.49,5,Apartment,0.18
+325.0,Electric,156,429.0,0,Daily,Occasionally,9,3,Never,Rarely,0,9.95,4,Bungalow,0.1
+383.0,Petrol,98,582.0,0,Never,Never,6,2,Rarely,Yearly,0,13.68,5,Independent,0.15
+470.0,Diesel,182,633.0,0,Daily,Daily,8,0,Never,Never,1,15.9,7,Independent,0.2
+226.0,CNG,189,177.0,1,Weekly,Daily,0,1,Never,Yearly,1,4.82,5,Bungalow,0.07
+271.0,Petrol,171,132.0,0,Monthly,Daily,8,2,Quarterly,Rarely,0,7.29,4,Rented Room,0.09
+463.0,CNG,83,662.0,0,Monthly,Occasionally,1,1,Quarterly,Yearly,0,7.27,2,Apartment,0.16
+246.0,Electric,212,480.0,0,Daily,Weekly,5,4,Rarely,Never,1,11.21,6,Independent,0.1
+146.0,Petrol,205,475.0,0,Daily,Occasionally,0,3,Quarterly,Never,0,13.74,6,Apartment,0.11
+395.0,CNG,150,428.0,0,Daily,Daily,2,3,Rarely,Never,0,16.73,6,Independent,0.16
+274.0,CNG,9,600.0,1,Monthly,Daily,3,4,Rarely,Never,1,9.63,5,Independent,0.1
+316.0,Diesel,222,114.0,0,,Never,9,4,Rarely,Yearly,0,10.82,5,Independent,0.13
+393.0,Electric,6,124.0,0,Weekly,Occasionally,0,3,Monthly,Monthly,1,7.07,2,Independent,0.09
+,CNG,146,792.0,1,Never,Occasionally,4,0,Never,Never,0,9.03,6,Rented Room,0.15
+68.0,Electric,251,653.0,1,Never,Never,4,2,Never,Monthly,1,6.95,6,Bungalow,0.06
+373.0,Petrol,9,407.0,1,Weekly,Weekly,3,0,Never,Monthly,1,10.83,4,Independent,0.11
+214.0,Diesel,132,166.0,1,Daily,Never,6,1,Monthly,Monthly,0,9.56,1,Rented Room,0.08
+12.0,Electric,24,757.0,0,Monthly,Daily,6,2,Monthly,Rarely,1,12.91,1,Apartment,0.07
+179.0,Diesel,227,793.0,1,Weekly,Weekly,1,2,Quarterly,Monthly,1,18.7,2,Rented Room,0.14
+59.0,CNG,1,481.0,1,Never,Occasionally,9,2,Never,Never,1,10.56,7,Independent,0.06
+491.0,CNG,12,566.0,1,,Daily,6,4,Rarely,Monthly,0,6.22,6,Independent,0.13
+115.0,Petrol,236,124.0,0,Weekly,Weekly,5,4,Monthly,Yearly,1,9.06,2,Bungalow,0.07
+307.0,CNG,11,309.0,0,Weekly,Daily,6,4,Never,Monthly,1,4.25,4,Apartment,0.1
+470.0,Electric,11,397.0,0,Monthly,Daily,4,0,Monthly,Rarely,1,3.73,1,Bungalow,0.1
+98.0,Petrol,130,314.0,0,Weekly,Never,1,4,Monthly,Monthly,0,3.57,1,Bungalow,0.06
+232.0,Electric,4,603.0,1,Daily,Occasionally,2,3,Quarterly,Yearly,0,12.29,7,Apartment,0.08
+34.0,Petrol,275,762.0,0,Monthly,Daily,2,3,Never,Rarely,1,1.18,6,Rented Room,0.07
+263.0,CNG,258,591.0,0,Daily,Occasionally,7,3,Quarterly,Never,1,6.61,1,Independent,0.12
+443.0,CNG,33,69.0,1,Never,Occasionally,8,0,Rarely,Never,0,4.7,5,Independent,0.09
+94.0,Electric,271,245.0,1,Daily,Weekly,5,1,Never,Monthly,1,1.55,6,Bungalow,0.04
+112.0,Electric,216,276.0,0,Never,Daily,1,3,Quarterly,Yearly,0,11.84,7,Bungalow,0.07
+317.0,Diesel,78,660.0,0,Monthly,Weekly,7,2,Quarterly,Yearly,1,7.33,1,Independent,0.14
+288.0,Electric,195,,0,Weekly,Daily,4,3,Monthly,Rarely,0,10.63,5,Independent,0.11
+324.0,CNG,173,435.0,0,Monthly,Occasionally,1,3,Monthly,Monthly,1,11.74,2,Independent,0.13
+359.0,Diesel,294,254.0,0,Daily,Never,4,4,Rarely,Yearly,1,4.82,2,Rented Room,0.13
+422.0,Electric,6,706.0,0,Monthly,Never,9,4,Quarterly,Monthly,1,13.25,4,Independent,0.13
+254.0,Diesel,223,119.0,0,Weekly,Daily,1,1,Never,Yearly,1,17.3,7,Independent,0.13
+17.0,Petrol,75,681.0,0,Weekly,Occasionally,3,0,Rarely,Never,1,12.49,5,Rented Room,0.08
+315.0,Petrol,152,585.0,0,Weekly,Never,2,3,Monthly,Rarely,0,5.85,3,Independent,0.12
+80.0,CNG,58,661.0,0,Weekly,Daily,4,0,Quarterly,Monthly,0,19.54,2,Independent,0.11
+282.0,Electric,129,708.0,0,Weekly,Never,8,1,Monthly,Never,1,13.87,4,Independent,0.12
+12.0,CNG,92,608.0,1,Never,Occasionally,7,3,Rarely,Rarely,1,1.68,2,Bungalow,0.04
+121.0,Petrol,116,631.0,0,Monthly,Daily,0,2,Monthly,Never,1,1.22,3,Independent,0.07
+32.0,Diesel,263,164.0,0,Never,Daily,1,3,Rarely,Yearly,1,4.24,7,Bungalow,0.05
+444.0,Electric,65,565.0,0,Monthly,Occasionally,0,1,Rarely,Yearly,0,8.56,1,Independent,0.12
+15.0,CNG,290,343.0,0,Daily,Occasionally,3,0,Never,Rarely,1,7.5,3,Apartment,0.06
+441.0,Diesel,116,677.0,0,Monthly,Daily,5,2,Monthly,Never,0,4.98,6,Bungalow,0.16
+140.0,Diesel,213,163.0,1,Daily,Occasionally,2,3,Rarely,Rarely,1,13.52,5,Rented Room,0.08
+217.0,Diesel,160,346.0,0,,Never,3,1,Monthly,Monthly,0,2.22,6,Bungalow,0.09
+107.0,CNG,21,472.0,0,Daily,Weekly,6,2,Rarely,Yearly,1,3.52,5,Rented Room,0.06
+238.0,Diesel,229,295.0,0,Never,Weekly,5,2,Rarely,Monthly,0,14.99,2,Independent,0.13
+282.0,CNG,280,115.0,0,Weekly,Never,2,1,Rarely,Yearly,0,8.37,4,Apartment,0.1
+312.0,Diesel,101,75.0,1,Monthly,Occasionally,5,0,Quarterly,Never,0,11.62,6,Independent,0.1
+230.0,CNG,209,214.0,0,Never,Never,5,0,Never,Monthly,1,16.26,3,Rented Room,0.11
+258.0,CNG,250,415.0,1,Never,Weekly,0,2,Never,Yearly,0,18.13,6,Bungalow,0.12
+445.0,Electric,141,237.0,0,Monthly,Weekly,8,2,Never,Monthly,1,7.93,1,Rented Room,0.11
+0.0,CNG,151,730.0,0,Monthly,Weekly,6,2,Monthly,Monthly,1,14.49,5,Rented Room,0.09
+348.0,Petrol,6,153.0,0,Daily,Never,9,3,Never,Rarely,1,13.25,2,Independent,0.12
+397.0,Diesel,154,662.0,0,,Daily,0,3,Quarterly,Monthly,1,17.18,7,Apartment,0.19
+98.0,CNG,116,205.0,0,Monthly,Never,7,4,Quarterly,Yearly,1,4.52,1,Bungalow,0.05
+19.0,CNG,265,,0,Daily,Never,3,4,Monthly,Never,0,17.2,5,Bungalow,0.08
+224.0,Diesel,173,292.0,0,,Weekly,2,4,Never,Yearly,1,2.71,5,Bungalow,0.09
+62.0,Petrol,291,,1,Weekly,Occasionally,9,3,Monthly,Rarely,0,5.24,1,Independent,0.05
+364.0,Petrol,155,661.0,0,Weekly,Weekly,2,2,Never,Rarely,0,6.45,6,Bungalow,0.14
+219.0,Petrol,28,280.0,0,Never,Weekly,2,2,Quarterly,Monthly,0,11.03,7,Rented Room,0.09
+103.0,Electric,97,373.0,0,Never,Never,2,2,Monthly,Yearly,0,2.73,4,Independent,0.05
+313.0,Diesel,140,260.0,0,,Weekly,7,2,Quarterly,Rarely,1,6.67,1,Bungalow,0.12
+28.0,CNG,133,474.0,0,Never,Occasionally,4,4,Quarterly,Never,1,19.39,4,Bungalow,0.09
+360.0,CNG,42,253.0,1,Weekly,Daily,9,0,Quarterly,Rarely,1,9.09,7,Independent,0.1
+157.0,Petrol,213,602.0,1,Weekly,Occasionally,9,0,Never,Rarely,1,7.76,7,Bungalow,0.09
+390.0,CNG,243,737.0,0,Weekly,Weekly,7,4,Rarely,Monthly,1,18.42,5,Rented Room,0.19
+427.0,CNG,240,125.0,1,,Occasionally,5,3,Quarterly,Yearly,1,6.95,2,Rented Room,0.11
+49.0,CNG,214,734.0,0,Never,Daily,8,0,Rarely,Rarely,1,7.65,5,Apartment,0.09
+279.0,Petrol,89,317.0,0,Weekly,Daily,9,1,Rarely,Monthly,1,14.09,4,Rented Room,0.12
+80.0,Diesel,53,68.0,0,Daily,Never,6,3,Monthly,Monthly,0,2.85,3,Apartment,0.04
+303.0,CNG,178,671.0,0,,Weekly,0,0,Monthly,Monthly,1,10.75,1,Rented Room,0.14
+145.0,Diesel,71,63.0,0,Never,Weekly,8,2,Quarterly,Monthly,1,7.14,5,Independent,0.06
+495.0,Diesel,255,612.0,1,Never,Never,8,2,Quarterly,Never,1,16.8,6,Rented Room,0.18
+493.0,Diesel,281,554.0,0,Daily,Never,2,4,Never,Yearly,1,3.58,3,Rented Room,0.18
+251.0,Diesel,83,698.0,0,,Weekly,6,2,Rarely,Never,0,16.27,7,Apartment,0.16
+113.0,Petrol,191,84.0,0,Weekly,Occasionally,4,3,Rarely,Monthly,0,16.37,4,Bungalow,0.08
+302.0,Electric,135,341.0,1,Weekly,Daily,8,1,Never,Rarely,0,16.56,4,Apartment,0.09
+71.0,Petrol,214,540.0,1,Monthly,Weekly,2,1,Never,Yearly,1,1.42,2,Independent,0.05
+469.0,CNG,120,456.0,1,Weekly,Weekly,1,1,Rarely,Rarely,1,11.3,7,Independent,0.13
+57.0,Diesel,141,526.0,0,Monthly,Never,9,0,Quarterly,Rarely,1,13.81,2,Independent,0.1
+43.0,CNG,226,210.0,1,Weekly,Daily,2,1,Rarely,Rarely,1,16.06,6,Independent,0.06
+116.0,Petrol,48,607.0,1,Weekly,Weekly,5,0,Quarterly,Yearly,1,12.39,6,Rented Room,0.08
+459.0,Petrol,0,695.0,0,Never,Occasionally,8,4,Never,Never,0,13.47,5,Apartment,0.17
+475.0,CNG,100,615.0,0,Weekly,Occasionally,1,0,Quarterly,Monthly,1,8.26,2,Apartment,0.16
+53.0,CNG,213,428.0,1,Never,Weekly,5,1,Monthly,Monthly,1,5.82,5,Rented Room,0.05
+51.0,Diesel,71,653.0,1,Never,Occasionally,6,3,Monthly,Yearly,1,1.07,1,Rented Room,0.06
+283.0,CNG,118,319.0,1,Daily,Occasionally,2,3,Never,Yearly,0,17.82,3,Rented Room,0.11
+456.0,Diesel,72,715.0,0,Daily,Weekly,7,1,Quarterly,Yearly,1,14.1,3,Apartment,0.19
+74.0,Petrol,17,328.0,0,Weekly,Never,9,1,Rarely,Monthly,1,3.98,7,Rented Room,0.05
+177.0,Diesel,11,413.0,1,Monthly,Occasionally,0,1,Quarterly,Rarely,0,14.69,4,Bungalow,0.09
+460.0,Electric,132,596.0,0,Monthly,Weekly,9,1,Monthly,Rarely,0,16.83,7,Rented Room,0.14
+459.0,Diesel,153,181.0,0,,Occasionally,6,1,Quarterly,Monthly,1,2.14,4,Apartment,0.13
+,Diesel,250,674.0,0,Weekly,Never,0,0,Never,Yearly,1,12.66,3,Bungalow,0.16
+339.0,CNG,99,338.0,1,Monthly,Never,5,4,Quarterly,Yearly,1,13.92,7,Independent,0.11
+306.0,Electric,49,610.0,0,Monthly,Weekly,5,4,Quarterly,Monthly,1,12.51,6,Bungalow,0.11
+455.0,Electric,287,172.0,0,Never,Occasionally,2,3,Monthly,Rarely,0,15.34,4,Independent,0.13
+48.0,CNG,241,222.0,1,Weekly,Weekly,6,0,Rarely,Monthly,1,18.24,5,Rented Room,0.07
+121.0,Petrol,272,351.0,1,Weekly,Never,5,3,Quarterly,Rarely,1,5.79,3,Apartment,0.07
+387.0,Diesel,284,630.0,0,Weekly,Never,9,2,Rarely,Rarely,0,18.88,7,Apartment,0.2
+236.0,Diesel,225,569.0,0,Never,Daily,5,2,Quarterly,Never,1,4.99,4,Rented Room,0.12
+205.0,Diesel,260,753.0,0,Daily,Occasionally,5,1,Monthly,Monthly,0,4.66,6,Apartment,0.12
+,Diesel,230,709.0,0,Monthly,Never,1,4,Quarterly,Never,1,9.94,6,Bungalow,0.17
+126.0,Petrol,175,374.0,1,Daily,Daily,6,4,Never,Monthly,0,9.08,6,Independent,0.07
+,Electric,84,708.0,0,Daily,Daily,7,0,Rarely,Monthly,0,19.01,5,Rented Room,0.15
+460.0,CNG,270,686.0,0,Weekly,Occasionally,3,1,Never,Monthly,0,9.05,6,Apartment,0.17
+197.0,CNG,105,332.0,1,Monthly,Occasionally,5,2,Quarterly,Rarely,0,15.93,2,Bungalow,0.09
+85.0,Electric,98,647.0,1,Daily,Daily,2,1,Monthly,Yearly,0,1.94,7,Bungalow,0.05
+252.0,CNG,241,69.0,0,Weekly,Weekly,1,3,Rarely,Yearly,1,9.16,3,Apartment,0.09
+407.0,Petrol,130,363.0,0,Never,Never,6,1,Monthly,Never,0,9.59,3,Apartment,0.14
+317.0,Diesel,153,606.0,0,Weekly,Daily,4,1,Quarterly,Monthly,0,8.96,4,Bungalow,0.15
+127.0,CNG,83,247.0,0,Weekly,Weekly,3,2,Quarterly,Never,1,16.01,5,Rented Room,0.09
+345.0,Diesel,276,492.0,1,,Never,2,1,Never,Rarely,0,1.99,7,Rented Room,0.11
+368.0,CNG,23,444.0,1,Daily,Weekly,6,4,Quarterly,Yearly,1,7.01,1,Bungalow,0.11
+180.0,Petrol,190,569.0,1,Monthly,Daily,9,3,Monthly,Never,0,11.73,1,Rented Room,0.1
+217.0,Petrol,232,568.0,1,Never,Weekly,0,4,Never,Yearly,1,15.19,3,Bungalow,0.11
+288.0,CNG,135,613.0,1,Daily,Occasionally,7,3,Rarely,Monthly,1,15.76,2,Bungalow,0.12
+,Electric,288,534.0,1,,Occasionally,4,1,Rarely,Rarely,1,7.12,1,Rented Room,0.06
+173.0,Diesel,89,719.0,1,Monthly,Occasionally,1,1,Quarterly,Never,1,8.78,5,Bungalow,0.1
+488.0,Electric,24,151.0,0,Monthly,Occasionally,9,0,Never,Yearly,0,17.59,5,Rented Room,0.12
+386.0,Electric,16,713.0,1,Never,Daily,4,0,Rarely,Never,0,7.91,4,Independent,0.1
+20.0,CNG,222,59.0,0,Daily,Weekly,2,0,Rarely,Never,0,18.5,5,Bungalow,0.07
+267.0,Electric,30,391.0,1,Daily,Occasionally,6,2,Rarely,Rarely,1,16.99,3,Bungalow,0.09
+433.0,Diesel,255,669.0,0,Weekly,Daily,6,4,Quarterly,Yearly,1,13.11,6,Bungalow,0.2
+98.0,Petrol,275,283.0,1,Daily,Occasionally,9,0,Never,Monthly,0,6.18,4,Rented Room,0.06
+223.0,Diesel,212,622.0,0,Daily,Weekly,5,4,Rarely,Monthly,0,9.93,6,Rented Room,0.14
+255.0,Diesel,25,686.0,0,Never,Occasionally,8,3,Never,Monthly,0,10.55,5,Independent,0.14
+4.0,Petrol,195,277.0,0,Weekly,Occasionally,8,4,Rarely,Yearly,1,8.14,5,Independent,0.05
+176.0,Electric,205,497.0,0,Weekly,Never,4,1,Monthly,Rarely,1,2.89,7,Rented Room,0.07
+133.0,Electric,260,162.0,0,Monthly,Weekly,4,0,Rarely,Never,1,5.88,3,Rented Room,0.05
+119.0,Diesel,8,,1,Never,Never,9,1,Never,Monthly,0,15.12,7,Rented Room,0.07
+163.0,Electric,232,705.0,1,Monthly,Weekly,2,1,Never,Never,1,10.27,1,Bungalow,0.08
+,Diesel,83,753.0,0,Never,Occasionally,1,0,Quarterly,Yearly,1,6.95,3,Bungalow,0.14
+276.0,Electric,281,645.0,1,Never,Weekly,0,1,Rarely,Rarely,1,2.17,2,Bungalow,0.08
+214.0,Electric,42,243.0,0,Never,Daily,4,1,Never,Monthly,1,4.35,7,Independent,0.06
+438.0,Petrol,169,543.0,0,Daily,Occasionally,9,1,Rarely,Yearly,1,8.43,4,Independent,0.15
+92.0,CNG,179,528.0,1,Daily,Occasionally,4,3,Rarely,Rarely,1,12.7,5,Independent,0.08
+492.0,Electric,101,457.0,0,,Weekly,9,0,Never,Never,1,7.79,1,Bungalow,0.12
+468.0,CNG,118,90.0,0,Monthly,Never,9,4,Rarely,Never,1,1.28,7,Independent,0.11
+347.0,CNG,261,659.0,1,Weekly,Weekly,0,4,Rarely,Rarely,0,12.75,7,Independent,0.13
+396.0,Diesel,49,282.0,0,Never,Never,6,2,Rarely,Monthly,1,7.19,5,Rented Room,0.13
+41.0,Diesel,61,333.0,1,Monthly,Daily,0,4,Rarely,Monthly,1,7.44,5,Independent,0.05
+283.0,CNG,38,338.0,0,Daily,Daily,9,4,Never,Monthly,1,17.2,5,Bungalow,0.13
+430.0,Petrol,261,363.0,1,Never,Never,6,1,Rarely,Yearly,1,14.93,2,Bungalow,0.14
+489.0,Electric,154,645.0,0,Weekly,Weekly,1,3,Monthly,Rarely,1,2.42,3,Rented Room,0.12
+400.0,CNG,102,603.0,1,Never,Never,6,4,Rarely,Yearly,0,13.43,3,Independent,0.14
+345.0,Diesel,92,695.0,0,Weekly,Weekly,3,0,Quarterly,Yearly,0,19.58,3,Rented Room,0.18
+157.0,Diesel,164,607.0,0,Daily,Never,8,0,Quarterly,Yearly,0,6.21,6,Apartment,0.1
+305.0,CNG,75,487.0,0,Daily,Weekly,5,0,Monthly,Monthly,1,17.73,7,Independent,0.14
+303.0,CNG,219,506.0,0,Weekly,Daily,3,1,Monthly,Yearly,0,6.33,5,Bungalow,0.12
+91.0,Electric,120,446.0,0,Monthly,Daily,7,4,Monthly,Monthly,0,8.33,4,Bungalow,0.06
+499.0,Diesel,212,621.0,1,Daily,Occasionally,6,3,Monthly,Rarely,1,11.56,7,Rented Room,0.17
+343.0,CNG,236,631.0,0,Monthly,Occasionally,4,4,Rarely,Never,0,12.19,6,Apartment,0.15
+8.0,Petrol,148,444.0,0,Never,Weekly,0,0,Monthly,Yearly,1,2.27,7,Rented Room,0.04
+394.0,Petrol,8,,0,Never,Weekly,8,4,Rarely,Never,1,3.19,2,Independent,0.1
+271.0,Electric,148,392.0,0,Weekly,Weekly,1,1,Quarterly,Monthly,0,13.76,6,Independent,0.1
+232.0,Diesel,177,486.0,0,Weekly,Weekly,5,3,Never,Monthly,0,9.58,1,Bungalow,0.12
+118.0,Petrol,110,615.0,0,Never,Never,3,3,Rarely,Monthly,0,6.1,6,Bungalow,0.08
+102.0,Petrol,269,564.0,0,Daily,Occasionally,9,4,Rarely,Yearly,1,3.29,4,Independent,0.08
+123.0,Diesel,203,662.0,1,Monthly,Weekly,9,4,Never,Rarely,1,13.21,6,Rented Room,0.11
+263.0,Electric,248,476.0,0,Daily,Never,4,0,Monthly,Rarely,0,17.36,2,Independent,0.11
+270.0,Petrol,238,411.0,1,Never,Occasionally,9,1,Quarterly,Yearly,0,11.89,5,Rented Room,0.11
+146.0,Diesel,227,267.0,0,Weekly,Daily,8,2,Monthly,Yearly,1,13.38,2,Independent,0.11
+341.0,Petrol,106,396.0,1,Daily,Daily,4,4,Never,Rarely,0,7.4,2,Rented Room,0.1
+421.0,Electric,111,466.0,0,Weekly,Daily,2,0,Never,Rarely,1,12.17,2,Bungalow,0.12
+152.0,Diesel,292,205.0,1,Daily,Daily,0,2,Never,Rarely,1,11.29,2,Bungalow,0.08
+430.0,Petrol,16,299.0,0,Monthly,Never,5,2,Quarterly,Yearly,0,1.55,5,Bungalow,0.11
+40.0,Diesel,113,351.0,0,Weekly,Occasionally,6,2,Rarely,Rarely,0,1.27,5,Independent,0.05
+408.0,CNG,138,352.0,1,Monthly,Occasionally,4,4,Rarely,Monthly,0,14.98,5,Apartment,0.13
+46.0,CNG,297,651.0,0,Monthly,Occasionally,0,2,Quarterly,Never,1,17.78,2,Bungalow,0.11
+372.0,Diesel,221,424.0,0,,Occasionally,4,1,Quarterly,Never,0,5.29,2,Apartment,0.14
+146.0,Petrol,254,250.0,0,Monthly,Weekly,0,4,Monthly,Never,1,18.53,3,Independent,0.11
+105.0,Diesel,60,530.0,0,Never,Occasionally,4,1,Monthly,Yearly,0,4.86,4,Apartment,0.08
+460.0,Petrol,257,782.0,1,Weekly,Occasionally,1,3,Never,Yearly,1,18.92,1,Rented Room,0.17
+282.0,CNG,36,721.0,0,Monthly,Daily,0,1,Quarterly,Never,1,14.23,5,Bungalow,0.14
+253.0,CNG,19,774.0,0,Daily,Weekly,4,3,Monthly,Yearly,0,19.47,2,Rented Room,0.15
+,Petrol,165,93.0,1,Monthly,Occasionally,8,0,Never,Monthly,1,3.54,1,Bungalow,0.1
+79.0,Electric,48,598.0,0,Weekly,Occasionally,7,0,Quarterly,Yearly,1,1.77,1,Apartment,0.05
+345.0,Diesel,58,,0,Monthly,Daily,8,0,Quarterly,Rarely,1,4.0,3,Rented Room,0.11
+171.0,Petrol,147,525.0,0,Weekly,Never,0,1,Never,Rarely,1,12.17,5,Apartment,0.11
+326.0,CNG,39,310.0,1,Daily,Weekly,1,3,Quarterly,Monthly,1,3.05,3,Bungalow,0.08
+,Diesel,115,153.0,0,Monthly,Never,1,4,Never,Monthly,1,6.13,7,Apartment,0.08
+316.0,CNG,160,132.0,1,Monthly,Weekly,0,4,Rarely,Yearly,1,15.49,2,Apartment,0.1
+402.0,Electric,2,178.0,0,,Daily,9,4,Monthly,Rarely,1,9.3,3,Bungalow,0.1
+418.0,Electric,44,413.0,1,Daily,Occasionally,0,0,Never,Yearly,0,12.17,1,Apartment,0.1
+149.0,Electric,270,771.0,0,Never,Occasionally,6,0,Never,Never,1,13.51,2,Bungalow,0.1
+57.0,CNG,124,753.0,0,Weekly,Daily,3,1,Quarterly,Yearly,1,19.66,7,Independent,0.12
+38.0,CNG,135,503.0,1,Daily,Never,7,0,Quarterly,Monthly,0,8.67,3,Rented Room,0.06
+491.0,CNG,261,309.0,0,Never,Never,7,4,Quarterly,Rarely,1,15.1,3,Rented Room,0.17
+37.0,Electric,119,599.0,0,Monthly,Weekly,4,1,Never,Rarely,0,8.47,7,Independent,0.06
+171.0,Electric,11,778.0,1,Never,Weekly,8,4,Never,Rarely,0,1.77,3,Independent,0.06
+191.0,Petrol,169,426.0,0,Monthly,Weekly,0,4,Never,Never,0,9.29,3,Independent,0.1
+105.0,CNG,276,598.0,1,Daily,Daily,7,4,Monthly,Never,1,5.08,7,Independent,0.08
+240.0,Electric,269,363.0,1,Monthly,Occasionally,1,3,Never,Monthly,1,9.2,4,Independent,0.07
+283.0,Diesel,252,546.0,1,Never,Never,7,4,Rarely,Never,1,8.48,6,Bungalow,0.12
+473.0,Diesel,228,600.0,1,Daily,Daily,7,2,Never,Yearly,1,3.67,4,Bungalow,0.15
+448.0,Diesel,154,745.0,0,Daily,Weekly,8,0,Rarely,Never,0,10.66,3,Bungalow,0.19
+38.0,Petrol,278,57.0,1,Weekly,Daily,1,2,Rarely,Never,1,12.09,7,Independent,0.05
+498.0,CNG,58,362.0,0,Never,Daily,2,2,Quarterly,Never,1,7.38,6,Apartment,0.15
+461.0,Electric,222,490.0,0,,Weekly,5,2,Quarterly,Never,0,12.5,4,Bungalow,0.13
+188.0,Diesel,81,522.0,1,Daily,Daily,9,1,Monthly,Rarely,1,6.77,2,Rented Room,0.09
+99.0,Petrol,69,716.0,0,Never,Never,0,1,Rarely,Yearly,1,3.6,6,Independent,0.08
+410.0,Diesel,85,500.0,0,Monthly,Daily,2,3,Quarterly,Never,1,3.57,3,Independent,0.14
+91.0,Petrol,242,260.0,1,Daily,Never,5,4,Never,Monthly,1,11.6,1,Rented Room,0.07
+182.0,CNG,116,695.0,1,Weekly,Daily,1,4,Quarterly,Rarely,0,12.53,3,Rented Room,0.1
+431.0,Diesel,163,589.0,0,Daily,Never,6,4,Rarely,Yearly,1,14.62,7,Bungalow,0.19
+115.0,Petrol,273,484.0,0,Never,Never,5,1,Monthly,Never,1,11.93,4,Apartment,0.1
+288.0,Electric,180,237.0,0,Monthly,Daily,0,4,Never,Yearly,1,17.1,5,Apartment,0.1
+150.0,Electric,123,148.0,1,Never,Daily,1,1,Rarely,Yearly,1,5.67,3,Bungalow,0.04
+,CNG,162,106.0,1,Weekly,Daily,9,2,Monthly,Rarely,0,12.03,4,Bungalow,0.11
+27.0,Electric,83,,0,Monthly,Daily,9,0,Rarely,Monthly,1,16.44,3,Bungalow,0.08
+449.0,Diesel,88,710.0,0,Monthly,Weekly,8,2,Quarterly,Monthly,1,16.72,3,Bungalow,0.2
+441.0,Petrol,129,98.0,1,Never,Daily,6,1,Monthly,Yearly,1,7.58,5,Apartment,0.1
+8.0,Electric,39,405.0,0,Never,Weekly,0,0,Never,Monthly,1,2.32,3,Rented Room,0.03
+452.0,CNG,58,711.0,1,Daily,Occasionally,2,3,Monthly,Yearly,1,17.6,7,Bungalow,0.16
+,Diesel,206,550.0,0,,Occasionally,9,2,Monthly,Never,1,6.1,3,Independent,0.08
+393.0,Electric,299,406.0,0,Weekly,Occasionally,7,0,Quarterly,Rarely,0,4.86,2,Independent,0.11
+345.0,CNG,218,704.0,0,Daily,Weekly,3,4,Never,Yearly,0,16.68,4,Independent,0.17
+169.0,Petrol,184,585.0,1,Never,Daily,1,0,Never,Never,1,3.91,6,Apartment,0.07
+446.0,CNG,159,738.0,0,Monthly,Daily,9,3,Quarterly,Never,1,16.28,6,Bungalow,0.19
+214.0,CNG,194,124.0,0,Never,Weekly,1,0,Rarely,Never,0,18.35,7,Apartment,0.11
+126.0,Petrol,67,217.0,1,Weekly,Never,6,2,Never,Yearly,0,2.02,6,Apartment,0.04
+484.0,Diesel,139,270.0,0,Daily,Weekly,2,4,Monthly,Yearly,0,13.87,7,Independent,0.18
+237.0,Diesel,203,403.0,0,,Daily,7,1,Quarterly,Monthly,1,9.52,3,Apartment,0.12
+496.0,Electric,233,314.0,0,Weekly,Weekly,9,3,Rarely,Never,0,13.16,5,Bungalow,0.14
+,Diesel,70,604.0,0,,Weekly,2,1,Never,Monthly,0,10.98,2,Independent,0.16
+450.0,Diesel,289,336.0,0,Weekly,Daily,3,1,Never,Yearly,1,16.45,7,Apartment,0.19
+491.0,CNG,160,,0,Never,Occasionally,5,4,Monthly,Never,1,8.15,1,Rented Room,0.14
+285.0,Diesel,284,330.0,0,Daily,Weekly,1,0,Never,Yearly,1,6.13,3,Apartment,0.12
+125.0,CNG,172,398.0,0,Never,Never,4,1,Monthly,Never,1,10.21,1,Independent,0.09
+446.0,Diesel,20,211.0,0,Daily,Occasionally,7,1,Never,Never,1,12.52,2,Rented Room,0.15
+143.0,Petrol,262,534.0,0,Never,Occasionally,6,0,Monthly,Rarely,0,8.82,3,Apartment,0.1
+73.0,Petrol,137,536.0,0,Daily,Occasionally,8,2,Quarterly,Yearly,1,3.21,4,Rented Room,0.07
+357.0,Electric,173,407.0,0,Daily,Daily,0,0,Monthly,Yearly,1,7.26,5,Apartment,0.1
+38.0,Electric,54,296.0,0,Never,Never,6,3,Never,Rarely,1,13.42,6,Apartment,0.05
+363.0,Diesel,145,69.0,0,Monthly,Weekly,0,2,Never,Never,1,8.5,3,Rented Room,0.12
+112.0,Petrol,39,225.0,0,Daily,Daily,0,1,Quarterly,Rarely,1,9.1,2,Rented Room,0.06
+172.0,CNG,109,455.0,1,Monthly,Never,4,4,Never,Rarely,1,4.37,1,Rented Room,0.07
+458.0,CNG,123,734.0,0,Monthly,Never,7,0,Rarely,Rarely,0,14.73,1,Independent,0.18
+316.0,Petrol,199,175.0,1,Weekly,Weekly,6,0,Quarterly,Yearly,0,3.18,5,Rented Room,0.08
+496.0,CNG,213,775.0,1,Daily,Never,0,1,Quarterly,Yearly,0,9.64,7,Apartment,0.16
+189.0,Petrol,202,263.0,0,Daily,Weekly,7,1,Rarely,Yearly,1,4.57,4,Bungalow,0.08
+373.0,CNG,291,50.0,0,Never,Occasionally,5,3,Never,Monthly,1,6.99,4,Bungalow,0.11
+444.0,Electric,29,90.0,0,Daily,Occasionally,7,1,Never,Yearly,1,12.1,5,Apartment,0.11
+348.0,Electric,40,96.0,0,Monthly,Occasionally,7,0,Quarterly,Rarely,1,7.15,4,Apartment,0.08
+320.0,Electric,2,582.0,0,Never,Weekly,6,0,Never,Never,0,16.4,6,Rented Room,0.11
+363.0,Petrol,28,386.0,0,Never,Daily,4,3,Monthly,Yearly,1,10.46,4,Independent,0.13
+151.0,Electric,170,,0,Daily,Never,8,3,Rarely,Yearly,0,8.64,1,Rented Room,0.07
+195.0,Petrol,11,677.0,0,Never,Daily,6,0,Never,Rarely,0,3.55,6,Independent,0.09
+3.0,Electric,208,554.0,1,Weekly,Weekly,9,1,Monthly,Monthly,1,11.96,3,Bungalow,0.05
+423.0,Petrol,262,,0,Never,Daily,5,2,Rarely,Yearly,1,15.32,4,Apartment,0.16
+34.0,Diesel,87,486.0,0,Never,Occasionally,9,3,Quarterly,Yearly,1,12.45,4,Rented Room,0.08
+159.0,Electric,95,637.0,1,Monthly,Weekly,2,1,Rarely,Yearly,0,12.33,4,Rented Room,0.07
+419.0,CNG,46,481.0,0,Weekly,Occasionally,6,1,Never,Rarely,0,18.06,5,Rented Room,0.16
+166.0,CNG,294,385.0,0,Daily,Never,5,3,Never,Never,0,8.74,3,Independent,0.1
+392.0,Petrol,190,353.0,0,Never,Occasionally,1,1,Monthly,Rarely,0,13.33,6,Rented Room,0.14
+100.0,CNG,273,115.0,0,Weekly,Occasionally,6,2,Monthly,Yearly,0,7.66,4,Rented Room,0.06
+224.0,Diesel,75,356.0,1,Daily,Occasionally,0,4,Monthly,Rarely,0,6.88,4,Bungalow,0.09
+1.0,Electric,292,499.0,0,Weekly,Occasionally,9,4,Never,Rarely,1,9.07,2,Apartment,0.06
+143.0,Electric,34,483.0,0,Monthly,Weekly,0,2,Monthly,Yearly,1,4.53,3,Bungalow,0.06
+,Petrol,144,563.0,0,Monthly,Daily,9,0,Monthly,Monthly,1,4.42,1,Apartment,0.09
+1.0,Diesel,288,728.0,1,Never,Never,0,2,Never,Yearly,0,15.45,5,Apartment,0.09
+330.0,Diesel,151,115.0,0,Weekly,Weekly,2,2,Quarterly,Never,1,2.96,1,Rented Room,0.1
+392.0,Petrol,277,252.0,1,Monthly,Weekly,0,2,Never,Yearly,1,4.92,6,Apartment,0.1
+8.0,Diesel,104,525.0,0,Monthly,Daily,9,0,Quarterly,Yearly,1,18.4,6,Apartment,0.1
+473.0,Petrol,207,,1,Monthly,Weekly,4,2,Quarterly,Monthly,0,12.22,5,Bungalow,0.13
+450.0,CNG,253,688.0,1,Monthly,Weekly,5,4,Rarely,Never,1,5.84,5,Independent,0.14
+339.0,CNG,194,226.0,1,Monthly,Occasionally,5,3,Rarely,Never,1,9.61,2,Rented Room,0.1
+219.0,Petrol,28,280.0,0,Never,Weekly,2,2,Quarterly,Monthly,0,11.03,7,Rented Room,0.09
+385.0,Diesel,225,617.0,0,Monthly,Never,4,2,Monthly,Rarely,1,10.15,5,Rented Room,0.17
+341.0,CNG,145,118.0,0,Never,Occasionally,4,3,Never,Never,0,16.75,5,Bungalow,0.13
+169.0,Electric,26,516.0,1,Weekly,Occasionally,8,4,Rarely,Yearly,1,12.2,5,Apartment,0.07
+36.0,CNG,293,725.0,0,Monthly,Daily,0,3,Never,Never,1,8.75,2,Bungalow,0.09
+345.0,CNG,71,708.0,1,Daily,Occasionally,5,3,Monthly,Yearly,0,2.52,7,Independent,0.11
+42.0,Diesel,148,728.0,1,Weekly,Daily,9,1,Monthly,Yearly,1,13.49,3,Independent,0.09
+4.0,Diesel,73,739.0,0,Monthly,Occasionally,5,2,Quarterly,Monthly,0,17.47,6,Apartment,0.11
+279.0,Diesel,285,326.0,1,Monthly,Weekly,0,0,Rarely,Yearly,0,2.59,1,Bungalow,0.09
+364.0,Diesel,226,764.0,0,Weekly,Daily,1,1,Monthly,Never,0,10.05,5,Rented Room,0.17
+135.0,CNG,148,237.0,0,Monthly,Occasionally,5,2,Monthly,Monthly,1,10.75,1,Rented Room,0.08
+219.0,Diesel,298,,0,Monthly,Never,7,0,Rarely,Never,0,11.06,7,Rented Room,0.11
+399.0,Diesel,116,718.0,1,Monthly,Never,9,4,Never,Monthly,1,10.46,4,Bungalow,0.15
+98.0,Petrol,1,297.0,0,Daily,Daily,0,0,Monthly,Yearly,1,15.96,7,Independent,0.08
+98.0,Diesel,76,667.0,1,Monthly,Occasionally,7,0,Never,Rarely,1,5.08,7,Independent,0.07
+164.0,Diesel,26,753.0,0,Never,Occasionally,6,0,Rarely,Monthly,0,12.31,4,Independent,0.12
+203.0,Petrol,108,167.0,1,Never,Occasionally,1,3,Never,Never,1,13.7,4,Rented Room,0.08
+116.0,CNG,260,313.0,0,Monthly,Weekly,6,0,Never,Never,0,19.55,3,Bungalow,0.11
+496.0,CNG,299,469.0,1,Weekly,Daily,9,1,Rarely,Never,1,17.69,7,Independent,0.16
+403.0,Electric,242,741.0,0,Weekly,Never,1,3,Rarely,Never,1,5.79,1,Apartment,0.12
+303.0,Electric,117,351.0,0,Monthly,Daily,6,0,Quarterly,Yearly,1,13.32,2,Apartment,0.1
+366.0,Electric,106,455.0,1,Daily,Never,3,3,Never,Never,0,8.21,7,Independent,0.09
+207.0,Petrol,24,549.0,0,Weekly,Daily,8,0,Quarterly,Monthly,1,12.83,3,Independent,0.11
+143.0,Diesel,172,412.0,0,Monthly,Daily,2,3,Quarterly,Rarely,1,8.38,1,Rented Room,0.1
+195.0,Petrol,107,98.0,0,Weekly,Occasionally,8,1,Quarterly,Monthly,0,13.62,7,Rented Room,0.09
+226.0,Diesel,86,321.0,1,Never,Occasionally,7,3,Rarely,Yearly,0,18.28,7,Rented Room,0.11
+303.0,Electric,104,759.0,1,Daily,Occasionally,1,2,Quarterly,Rarely,0,7.33,6,Independent,0.09
+236.0,Electric,260,622.0,0,Weekly,Occasionally,1,3,Never,Never,0,8.84,1,Rented Room,0.1
+194.0,Petrol,256,442.0,0,Weekly,Occasionally,9,0,Quarterly,Yearly,1,12.28,5,Independent,0.11
+179.0,CNG,49,284.0,0,Daily,Never,1,0,Quarterly,Yearly,0,1.77,2,Apartment,0.06
+157.0,Petrol,125,122.0,0,Daily,Weekly,3,4,Monthly,Monthly,0,7.61,6,Independent,0.07
+288.0,Electric,286,276.0,0,Never,Weekly,4,3,Never,Yearly,1,2.82,7,Apartment,0.08
+,Diesel,61,677.0,0,Never,Weekly,0,4,Quarterly,Rarely,0,16.14,7,Independent,0.16
+121.0,Petrol,13,708.0,0,Monthly,Daily,2,3,Rarely,Rarely,0,17.21,3,Rented Room,0.11
+53.0,Diesel,240,232.0,1,Daily,Weekly,3,2,Quarterly,Monthly,1,10.98,7,Independent,0.06
+423.0,CNG,121,784.0,1,Daily,Weekly,6,1,Never,Monthly,1,2.62,2,Independent,0.13
+325.0,Electric,177,668.0,0,Monthly,Occasionally,2,2,Quarterly,Monthly,0,19.18,7,Independent,0.13
+11.0,CNG,113,339.0,0,Never,Weekly,4,3,Rarely,Never,1,4.89,4,Independent,0.04
+347.0,Petrol,267,429.0,0,Never,Daily,7,0,Monthly,Never,1,2.35,3,Rented Room,0.12
+57.0,Petrol,68,775.0,0,Daily,Never,3,4,Quarterly,Never,1,6.81,4,Apartment,0.08
+384.0,Petrol,118,223.0,0,Daily,Never,2,1,Quarterly,Yearly,1,1.37,5,Apartment,0.1
+454.0,Electric,177,612.0,1,Daily,Weekly,1,0,Monthly,Rarely,0,19.62,5,Independent,0.13
+68.0,CNG,10,736.0,0,Weekly,Never,7,4,Quarterly,Rarely,0,16.05,2,Rented Room,0.11
+190.0,Diesel,215,525.0,1,Monthly,Never,4,2,Rarely,Never,0,2.84,2,Independent,0.08
+214.0,Petrol,158,780.0,1,Monthly,Never,4,0,Quarterly,Monthly,0,16.65,6,Bungalow,0.12
+401.0,Electric,110,503.0,0,Daily,Never,4,4,Never,Monthly,1,3.59,3,Bungalow,0.1
+50.0,Electric,116,410.0,0,Daily,Weekly,8,1,Rarely,Never,1,12.12,2,Bungalow,0.06
+187.0,Petrol,235,203.0,0,,Never,8,1,Never,Rarely,1,19.92,6,Independent,0.12
+475.0,CNG,271,276.0,0,Weekly,Occasionally,3,4,Never,Monthly,1,2.31,3,Apartment,0.14
+474.0,Diesel,12,605.0,0,Weekly,Daily,8,4,Rarely,Monthly,0,7.42,6,Bungalow,0.17
+134.0,Petrol,265,600.0,1,Monthly,Occasionally,1,2,Monthly,Monthly,0,2.27,3,Independent,0.07
+125.0,Electric,246,750.0,0,Monthly,Daily,3,3,Never,Monthly,1,2.97,5,Rented Room,0.07
+374.0,CNG,106,492.0,0,Never,Never,3,2,Rarely,Monthly,1,18.46,7,Rented Room,0.16
+311.0,Diesel,210,212.0,0,Daily,Occasionally,7,1,Monthly,Rarely,1,5.02,1,Rented Room,0.11
+370.0,Petrol,188,362.0,0,Weekly,Daily,0,0,Rarely,Rarely,0,17.89,6,Rented Room,0.15
+45.0,Electric,94,719.0,0,Weekly,Occasionally,5,4,Never,Monthly,0,10.04,4,Apartment,0.07
+159.0,Diesel,207,424.0,0,Monthly,Occasionally,4,0,Rarely,Monthly,0,7.25,3,Apartment,0.1
+159.0,Diesel,221,117.0,1,Monthly,Never,8,2,Never,Never,1,9.55,5,Apartment,0.07
+416.0,Diesel,242,555.0,0,Weekly,Never,0,1,Quarterly,Never,1,14.39,6,Rented Room,0.18
+372.0,CNG,97,442.0,0,Monthly,Never,7,0,Quarterly,Yearly,1,4.44,2,Bungalow,0.12
+93.0,Petrol,217,,0,Weekly,Occasionally,9,2,Monthly,Rarely,1,11.76,5,Apartment,0.08
+442.0,Petrol,207,573.0,0,Never,Daily,9,0,Rarely,Yearly,0,19.92,7,Rented Room,0.19
+83.0,CNG,140,785.0,0,Monthly,Never,7,1,Rarely,Yearly,0,2.59,6,Bungalow,0.08
+43.0,CNG,26,647.0,0,Weekly,Occasionally,7,1,Rarely,Yearly,1,5.43,5,Apartment,0.07
+397.0,Diesel,59,688.0,1,Weekly,Occasionally,6,1,Monthly,Rarely,1,10.4,6,Independent,0.14
+8.0,Diesel,104,525.0,0,Monthly,Daily,9,0,Quarterly,Yearly,1,18.4,6,Apartment,0.1
+407.0,CNG,142,223.0,0,Never,Daily,2,3,Never,Monthly,1,8.83,1,Apartment,0.13
+257.0,Petrol,3,61.0,0,Monthly,Weekly,0,2,Never,Yearly,1,8.99,2,Bungalow,0.08
+111.0,Petrol,206,260.0,1,,Never,5,2,Monthly,Monthly,0,19.89,2,Rented Room,0.09
+40.0,Petrol,223,,0,Never,Never,6,2,Quarterly,Monthly,1,16.05,6,Apartment,0.1
+43.0,Diesel,137,376.0,0,Daily,Never,0,0,Rarely,Monthly,0,1.57,6,Bungalow,0.05
+359.0,Diesel,172,586.0,0,Never,Daily,2,4,Monthly,Monthly,0,1.06,4,Independent,0.13
+229.0,Petrol,43,191.0,0,Monthly,Weekly,6,1,Quarterly,Monthly,1,8.37,1,Rented Room,0.08
+61.0,Petrol,91,158.0,0,Monthly,Occasionally,6,2,Never,Never,0,5.1,3,Apartment,0.04
+338.0,CNG,251,265.0,0,,Never,5,1,Never,Rarely,1,5.79,7,Rented Room,0.11
+170.0,Electric,32,494.0,0,Weekly,Never,0,0,Quarterly,Monthly,1,9.89,2,Rented Room,0.07
+228.0,Petrol,216,697.0,0,Never,Daily,0,2,Rarely,Rarely,0,5.34,3,Apartment,0.11
+476.0,Diesel,144,162.0,0,Weekly,Weekly,2,1,Quarterly,Yearly,1,12.22,4,Apartment,0.16
+4.0,Diesel,89,702.0,1,Never,Daily,4,4,Quarterly,Monthly,0,16.31,3,Bungalow,0.09
+264.0,Petrol,259,643.0,1,Never,Never,6,0,Quarterly,Rarely,0,6.8,7,Bungalow,0.1
+496.0,CNG,280,294.0,0,Monthly,Never,0,2,Quarterly,Never,1,1.18,2,Independent,0.14
+223.0,Petrol,40,758.0,1,Daily,Never,2,1,Rarely,Monthly,1,3.48,2,Independent,0.09
+13.0,Petrol,180,153.0,0,Monthly,Never,6,0,Monthly,Yearly,0,10.6,2,Independent,0.05
+437.0,Petrol,107,751.0,0,Never,Weekly,3,3,Monthly,Yearly,0,17.36,6,Rented Room,0.19
+200.0,CNG,44,667.0,0,Weekly,Daily,5,2,Never,Never,1,4.6,6,Apartment,0.1
+,CNG,225,713.0,0,,Weekly,2,1,Never,Yearly,1,10.62,1,Rented Room,0.17
+407.0,CNG,162,204.0,0,Monthly,Weekly,6,4,Rarely,Yearly,0,14.77,7,Rented Room,0.15
+452.0,CNG,58,711.0,1,Daily,Occasionally,2,3,Monthly,Yearly,1,17.6,7,Bungalow,0.16
+460.0,CNG,11,715.0,1,Weekly,Never,9,3,Quarterly,Never,0,17.42,5,Rented Room,0.16
+112.0,Electric,276,496.0,0,Never,Weekly,7,2,Never,Yearly,1,19.63,3,Apartment,0.1
+445.0,CNG,279,147.0,0,Daily,Daily,7,4,Rarely,Rarely,1,4.24,1,Rented Room,0.13
+489.0,CNG,0,304.0,0,Monthly,Never,9,1,Rarely,Yearly,1,17.38,3,Apartment,0.16
+52.0,Petrol,37,668.0,0,Daily,Never,3,1,Rarely,Yearly,0,19.64,2,Independent,0.11
+229.0,Diesel,212,607.0,0,Weekly,Daily,0,0,Quarterly,Yearly,0,11.53,1,Rented Room,0.13
+175.0,Petrol,81,114.0,0,Weekly,Weekly,2,1,Quarterly,Yearly,0,5.33,2,Independent,0.06
+391.0,Diesel,168,231.0,0,Never,Daily,1,0,Monthly,Monthly,0,17.6,3,Rented Room,0.16
+475.0,Diesel,35,660.0,0,Monthly,Weekly,2,1,Never,Monthly,1,6.73,3,Apartment,0.17
+156.0,Petrol,39,630.0,0,Weekly,Occasionally,6,2,Quarterly,Monthly,0,13.49,2,Rented Room,0.11
+366.0,Electric,123,99.0,0,Monthly,Occasionally,7,4,Monthly,Yearly,0,5.78,6,Independent,0.08
+187.0,CNG,4,703.0,0,Daily,Occasionally,5,1,Monthly,Yearly,0,3.02,6,Rented Room,0.09
+43.0,Electric,83,339.0,0,Weekly,Daily,9,0,Never,Yearly,0,9.34,3,Apartment,0.05
+306.0,Diesel,186,575.0,0,Monthly,Never,5,3,Monthly,Monthly,1,6.5,6,Bungalow,0.14
+,Petrol,157,683.0,0,Monthly,Occasionally,9,1,Never,Monthly,0,5.98,7,Rented Room,0.13
+414.0,Electric,287,314.0,0,Never,Occasionally,4,1,Quarterly,Rarely,1,3.5,4,Independent,0.1
+232.0,Petrol,249,326.0,0,Never,Occasionally,2,0,Never,Yearly,1,6.47,2,Independent,0.1
+,Electric,204,729.0,0,Never,Never,7,1,Quarterly,Never,0,10.68,5,Apartment,0.11
+189.0,Diesel,64,454.0,0,Never,Weekly,1,3,Monthly,Never,1,5.58,3,Independent,0.09
+477.0,Electric,36,525.0,0,Monthly,Occasionally,2,0,Monthly,Yearly,1,4.44,4,Bungalow,0.11
+95.0,Petrol,174,131.0,0,Weekly,Occasionally,1,4,Never,Monthly,0,9.79,7,Bungalow,0.07
+287.0,CNG,62,625.0,0,Daily,Weekly,3,1,Monthly,Never,0,16.21,7,Rented Room,0.14
+135.0,Petrol,81,456.0,0,Daily,Daily,0,3,Quarterly,Rarely,0,4.87,2,Independent,0.07
+329.0,Diesel,285,429.0,0,Weekly,Never,7,3,Monthly,Yearly,1,18.73,1,Independent,0.18
+35.0,Petrol,265,311.0,0,Monthly,Daily,9,1,Monthly,Monthly,1,19.63,6,Rented Room,0.09
+317.0,Electric,165,128.0,1,Never,Weekly,9,4,Rarely,Never,1,11.23,5,Independent,0.08
+366.0,Petrol,34,203.0,0,Monthly,Occasionally,1,1,Never,Monthly,0,5.21,4,Independent,0.1
+27.0,Diesel,134,62.0,1,Monthly,Weekly,1,3,Rarely,Never,1,18.79,5,Rented Room,0.06
+293.0,CNG,165,503.0,1,Monthly,Never,1,4,Rarely,Monthly,0,4.41,3,Apartment,0.1
+128.0,Diesel,220,180.0,0,Weekly,Occasionally,2,4,Monthly,Yearly,0,5.71,5,Rented Room,0.07
+125.0,Diesel,241,350.0,0,Daily,Never,5,1,Quarterly,Yearly,1,4.3,5,Rented Room,0.08
+9.0,Petrol,22,72.0,0,Never,Daily,6,4,Quarterly,Rarely,0,8.9,2,Rented Room,0.04
+230.0,Petrol,187,713.0,0,Daily,Daily,3,3,Monthly,Rarely,1,10.7,3,Apartment,0.13
+492.0,Diesel,80,596.0,0,Weekly,Daily,5,2,Quarterly,Never,1,16.52,6,Rented Room,0.2
+24.0,Diesel,259,532.0,0,Monthly,Occasionally,8,2,Monthly,Monthly,1,17.41,5,Independent,0.11
+,Petrol,96,786.0,1,Daily,Occasionally,4,0,Quarterly,Monthly,0,12.01,7,Independent,0.1
+50.0,Electric,157,106.0,1,Never,Never,6,0,Quarterly,Never,1,17.59,3,Rented Room,0.05
+251.0,Diesel,242,535.0,0,Never,Never,8,4,Monthly,Never,1,18.83,6,Rented Room,0.16
+459.0,CNG,112,577.0,0,Weekly,Never,0,0,Monthly,Rarely,1,3.63,3,Apartment,0.14
+391.0,Diesel,168,231.0,0,Never,Daily,1,0,Monthly,Monthly,0,17.6,3,Rented Room,0.16
+180.0,Electric,128,722.0,0,Daily,Never,9,1,Monthly,Monthly,0,8.94,3,Independent,0.09
+337.0,Petrol,83,173.0,0,Daily,Occasionally,8,0,Never,Never,0,17.68,3,Bungalow,0.13
+498.0,Petrol,291,608.0,1,Never,Occasionally,9,1,Rarely,Monthly,1,5.07,1,Independent,0.14
+348.0,Electric,110,309.0,0,Weekly,Daily,5,1,Rarely,Monthly,1,19.28,6,Rented Room,0.12
+130.0,CNG,182,651.0,1,,Never,6,3,Rarely,Yearly,1,15.88,2,Rented Room,0.1
+145.0,Electric,245,189.0,0,Monthly,Weekly,6,0,Never,Rarely,0,12.25,6,Rented Room,0.07
+483.0,Diesel,100,558.0,0,Monthly,Daily,3,2,Never,Yearly,1,15.85,2,Rented Room,0.2
+330.0,Diesel,218,608.0,0,Monthly,Daily,5,0,Monthly,Rarely,0,13.57,6,Rented Room,0.16
+160.0,Petrol,260,240.0,0,Daily,Weekly,7,1,Rarely,Yearly,0,8.1,1,Rented Room,0.08
+142.0,CNG,132,589.0,0,Never,Daily,8,0,Monthly,Monthly,1,14.49,7,Rented Room,0.11
+484.0,Petrol,145,461.0,1,Daily,Weekly,0,2,Rarely,Monthly,0,3.4,7,Apartment,0.12
+,Diesel,28,430.0,0,Weekly,Daily,0,3,Quarterly,Rarely,0,1.77,1,Rented Room,0.05
+256.0,Diesel,162,245.0,0,Daily,Daily,6,1,Quarterly,Monthly,1,6.67,5,Rented Room,0.1
+410.0,Petrol,92,620.0,1,Daily,Occasionally,0,4,Monthly,Monthly,0,10.34,1,Rented Room,0.13
+193.0,Petrol,281,744.0,0,Monthly,Never,9,3,Quarterly,Never,1,14.23,4,Rented Room,0.14
+246.0,Diesel,263,156.0,1,Daily,Weekly,8,0,Quarterly,Never,1,3.42,7,Bungalow,0.08
+285.0,Electric,287,480.0,1,Never,Occasionally,3,0,Monthly,Monthly,1,14.91,2,Rented Room,0.09
+416.0,Electric,284,76.0,1,Daily,Daily,8,1,Never,Yearly,1,5.23,3,Independent,0.08
+327.0,Petrol,248,463.0,1,Monthly,Never,0,2,Rarely,Yearly,0,15.66,4,Apartment,0.13
+402.0,Petrol,159,317.0,0,Weekly,Daily,4,1,Never,Never,0,19.73,1,Apartment,0.16
+487.0,CNG,107,502.0,0,Weekly,Never,9,1,Rarely,Rarely,1,7.22,6,Independent,0.15
+107.0,Petrol,131,738.0,0,Weekly,Daily,9,3,Monthly,Rarely,1,14.75,6,Rented Room,0.12
+189.0,Diesel,269,598.0,0,Daily,Daily,5,4,Quarterly,Monthly,1,18.92,3,Bungalow,0.16
+359.0,Petrol,292,647.0,1,Daily,Weekly,3,0,Monthly,Monthly,1,8.31,7,Bungalow,0.13
+14.0,Diesel,223,398.0,0,Daily,Daily,8,3,Quarterly,Yearly,0,7.94,1,Apartment,0.07
+147.0,Diesel,6,593.0,0,Never,Daily,6,0,Never,Rarely,1,6.14,7,Independent,0.09
+314.0,Petrol,14,203.0,0,Never,Occasionally,3,4,Rarely,Monthly,0,14.38,4,Rented Room,0.12
+474.0,Electric,105,122.0,0,Daily,Never,2,3,Quarterly,Yearly,1,8.44,4,Bungalow,0.11
+408.0,Diesel,117,386.0,1,Daily,Weekly,0,2,Monthly,Yearly,0,8.47,1,Apartment,0.13
+62.0,Diesel,21,191.0,1,Daily,Daily,6,1,Never,Never,0,15.14,6,Bungalow,0.06
+337.0,Diesel,225,187.0,0,Weekly,Never,7,2,Never,Monthly,1,17.34,5,Independent,0.15
+75.0,Electric,257,469.0,0,Never,Occasionally,4,3,Quarterly,Yearly,1,6.0,4,Rented Room,0.06
+128.0,Petrol,18,381.0,0,Daily,Never,6,1,Rarely,Never,0,3.84,7,Bungalow,0.06
+358.0,Petrol,221,448.0,1,Monthly,Daily,0,3,Rarely,Never,0,3.49,4,Independent,0.1
+122.0,Diesel,153,259.0,1,Monthly,Weekly,3,1,Rarely,Yearly,0,4.93,1,Rented Room,0.06
+329.0,CNG,277,94.0,0,Never,Daily,1,4,Rarely,Yearly,0,7.42,1,Independent,0.11
+114.0,Diesel,142,374.0,0,Daily,Never,1,0,Never,Monthly,0,13.33,7,Rented Room,0.1
+216.0,CNG,215,425.0,0,,Never,9,1,Monthly,Monthly,0,5.07,4,Bungalow,0.1
+472.0,Electric,299,431.0,0,Daily,Occasionally,8,4,Quarterly,Rarely,1,15.55,3,Independent,0.15
+75.0,Petrol,129,465.0,1,Never,Daily,5,1,Quarterly,Monthly,1,4.12,6,Apartment,0.05
+25.0,Petrol,142,473.0,0,Weekly,Never,1,1,Never,Yearly,1,4.87,4,Rented Room,0.05
+,Diesel,71,637.0,0,Weekly,Occasionally,7,4,Quarterly,Rarely,1,13.6,6,Apartment,0.17
+270.0,Electric,265,518.0,1,Weekly,Weekly,7,1,Rarely,Monthly,1,3.84,4,Bungalow,0.08
+304.0,Petrol,268,752.0,0,Monthly,Daily,0,2,Rarely,Yearly,1,5.81,4,Bungalow,0.14
+32.0,Petrol,159,212.0,0,Monthly,Never,4,1,Quarterly,Never,1,13.24,1,Bungalow,0.06
+223.0,CNG,109,219.0,0,Never,Weekly,7,2,Rarely,Yearly,1,7.94,2,Independent,0.09
+100.0,Petrol,232,645.0,1,Never,Occasionally,5,4,Monthly,Yearly,1,6.14,3,Rented Room,0.08
+99.0,Petrol,130,549.0,1,Never,Daily,8,3,Rarely,Rarely,1,14.53,2,Apartment,0.09
+,Electric,18,529.0,1,Never,Daily,3,1,Quarterly,Rarely,0,8.84,6,Bungalow,0.07
+174.0,Petrol,2,87.0,0,Weekly,Daily,5,3,Never,Rarely,1,10.88,2,Bungalow,0.07
+364.0,Electric,127,533.0,0,Daily,Weekly,0,3,Monthly,Rarely,1,15.18,1,Rented Room,0.12
+144.0,CNG,20,740.0,0,Never,Never,0,4,Rarely,Yearly,1,19.58,5,Bungalow,0.13
+169.0,Electric,88,392.0,1,Daily,Weekly,3,4,Never,Yearly,1,9.53,7,Apartment,0.06
+148.0,CNG,255,74.0,1,Weekly,Daily,3,3,Rarely,Monthly,0,11.4,3,Apartment,0.07
+470.0,Electric,113,117.0,0,Weekly,Daily,0,4,Monthly,Monthly,1,19.92,7,Bungalow,0.13
+484.0,CNG,87,,0,Weekly,Weekly,0,4,Never,Monthly,1,1.22,2,Apartment,0.14
+492.0,Petrol,41,535.0,0,Daily,Occasionally,3,4,Monthly,Monthly,1,18.57,4,Independent,0.19
+222.0,Diesel,66,360.0,1,Monthly,Never,7,2,Rarely,Never,0,3.34,7,Rented Room,0.08
+445.0,CNG,91,659.0,1,Weekly,Never,9,4,Rarely,Rarely,0,15.51,2,Rented Room,0.15
+293.0,Diesel,107,,1,Daily,Never,6,3,Quarterly,Never,1,1.99,5,Rented Room,0.1
+372.0,Diesel,79,434.0,0,Monthly,Never,8,4,Rarely,Never,0,8.4,5,Apartment,0.14
+26.0,Electric,292,591.0,1,Monthly,Weekly,9,0,Monthly,Rarely,1,4.28,7,Independent,0.05
+211.0,CNG,268,679.0,0,Never,Never,0,0,Quarterly,Yearly,1,14.63,3,Independent,0.13
+139.0,Petrol,151,777.0,1,Monthly,Daily,0,0,Monthly,Rarely,1,3.91,1,Apartment,0.08
+472.0,Electric,146,626.0,1,Monthly,Never,3,3,Never,Never,1,3.15,7,Independent,0.1
+344.0,Petrol,38,672.0,0,Daily,Never,9,2,Never,Monthly,1,14.88,2,Bungalow,0.15
+449.0,Petrol,18,232.0,1,Daily,Occasionally,4,4,Monthly,Yearly,0,19.27,6,Apartment,0.14
+130.0,Petrol,294,724.0,0,Monthly,Occasionally,9,1,Rarely,Yearly,1,7.07,3,Bungalow,0.1
+301.0,Diesel,7,369.0,1,Weekly,Daily,5,4,Monthly,Rarely,0,17.67,5,Bungalow,0.13
+311.0,Diesel,29,593.0,0,Daily,Occasionally,1,4,Monthly,Rarely,1,12.42,5,Independent,0.15
+444.0,Diesel,47,165.0,0,Daily,Weekly,6,1,Monthly,Monthly,0,11.99,2,Bungalow,0.15
+172.0,Petrol,219,628.0,0,Monthly,Never,4,2,Quarterly,Never,1,19.11,2,Rented Room,0.13
+248.0,Electric,133,492.0,1,Daily,Daily,6,4,Never,Monthly,1,9.42,3,Bungalow,0.08
+51.0,Petrol,191,70.0,0,Never,Daily,6,0,Rarely,Yearly,0,15.93,4,Rented Room,0.07
+258.0,CNG,270,124.0,0,Never,Occasionally,5,2,Quarterly,Yearly,1,8.03,2,Bungalow,0.1
+219.0,Petrol,78,71.0,0,Weekly,Weekly,8,1,Rarely,Never,1,17.56,7,Rented Room,0.1
+489.0,CNG,72,325.0,1,Weekly,Occasionally,0,3,Never,Monthly,0,6.04,5,Apartment,0.12
+241.0,Electric,107,123.0,0,Weekly,Daily,5,2,Never,Yearly,0,19.06,2,Bungalow,0.09
+28.0,Diesel,33,151.0,0,Daily,Weekly,3,3,Quarterly,Monthly,1,18.91,3,Bungalow,0.08
+354.0,Petrol,35,390.0,1,Weekly,Never,9,3,Never,Yearly,1,10.42,7,Apartment,0.11
+285.0,CNG,294,495.0,0,Weekly,Occasionally,4,1,Quarterly,Never,1,14.49,6,Apartment,0.14
+,Petrol,205,231.0,0,Never,Occasionally,4,0,Rarely,Monthly,0,14.46,4,Apartment,0.12
+241.0,Electric,150,197.0,0,Weekly,Weekly,9,2,Quarterly,Rarely,0,2.23,2,Independent,0.06
+134.0,CNG,234,457.0,1,Daily,Occasionally,1,1,Quarterly,Rarely,0,2.35,3,Rented Room,0.06
+416.0,Petrol,143,221.0,0,Weekly,Occasionally,8,2,Rarely,Never,1,10.56,7,Apartment,0.14
+252.0,CNG,141,242.0,0,Never,Weekly,6,2,Rarely,Yearly,1,3.36,5,Bungalow,0.08
+142.0,Petrol,159,584.0,1,Daily,Daily,9,4,Monthly,Never,1,1.58,7,Rented Room,0.07
+295.0,Petrol,8,449.0,0,Never,Weekly,7,3,Never,Yearly,1,19.59,6,Apartment,0.14
+330.0,Diesel,20,543.0,1,Never,Never,0,0,Never,Rarely,1,9.5,2,Bungalow,0.12
+64.0,Diesel,4,721.0,0,Weekly,Weekly,2,4,Rarely,Monthly,1,17.65,4,Bungalow,0.12
+350.0,Petrol,266,448.0,1,Monthly,Never,1,2,Quarterly,Never,1,8.82,3,Rented Room,0.11
+175.0,CNG,170,786.0,0,Monthly,Daily,0,2,Rarely,Rarely,1,18.05,5,Independent,0.14
+127.0,Electric,275,259.0,0,Monthly,Never,4,2,Never,Never,1,16.74,2,Rented Room,0.08
+164.0,Diesel,51,636.0,1,Monthly,Never,3,4,Monthly,Never,1,16.54,5,Apartment,0.11
+123.0,Diesel,117,393.0,1,Monthly,Never,1,1,Never,Rarely,0,8.67,6,Apartment,0.07
+366.0,Electric,189,408.0,1,Weekly,Occasionally,4,1,Rarely,Monthly,1,2.67,4,Bungalow,0.08
+146.0,Petrol,258,623.0,1,Daily,Daily,9,1,Monthly,Rarely,0,17.07,4,Independent,0.11
+409.0,Petrol,175,303.0,0,Monthly,Occasionally,0,2,Never,Monthly,1,16.08,6,Rented Room,0.15
+,CNG,152,168.0,0,Daily,Never,9,2,Monthly,Never,0,4.94,5,Apartment,0.08
+27.0,Electric,132,774.0,0,Never,Never,6,2,Quarterly,Yearly,0,14.17,4,Bungalow,0.08
+207.0,Diesel,27,628.0,1,Daily,Occasionally,0,4,Never,Yearly,1,13.52,7,Independent,0.11
+191.0,Electric,255,344.0,1,Weekly,Never,5,2,Quarterly,Never,0,14.61,2,Independent,0.08
+159.0,Electric,25,,0,Monthly,Weekly,0,3,Monthly,Rarely,1,1.62,3,Rented Room,0.06
+253.0,Petrol,268,563.0,0,,Never,1,4,Never,Rarely,0,3.4,2,Bungalow,0.11
+188.0,Diesel,81,522.0,1,Daily,Daily,9,1,Monthly,Rarely,1,6.77,2,Rented Room,0.09
+396.0,Diesel,159,214.0,1,,Weekly,2,3,Monthly,Never,0,9.43,2,Independent,0.12
+102.0,CNG,102,454.0,0,Never,Never,1,2,Monthly,Rarely,1,7.1,6,Apartment,0.07
+234.0,CNG,61,734.0,1,Daily,Weekly,0,1,Never,Rarely,1,11.58,6,Apartment,0.11
+235.0,Petrol,226,181.0,0,Never,Occasionally,2,1,Rarely,Yearly,1,5.48,5,Independent,0.08
+191.0,Petrol,180,333.0,0,Weekly,Weekly,0,0,Rarely,Monthly,1,8.65,1,Rented Room,0.09
+217.0,Electric,231,426.0,1,Never,Occasionally,3,0,Monthly,Rarely,0,2.1,5,Independent,0.06
+151.0,Petrol,23,326.0,0,Monthly,Weekly,2,3,Quarterly,Never,1,14.6,2,Apartment,0.09
+254.0,Electric,193,517.0,0,Daily,Occasionally,2,4,Quarterly,Never,1,8.91,5,Apartment,0.1
+267.0,CNG,24,84.0,1,Weekly,Daily,4,0,Rarely,Monthly,0,15.83,5,Apartment,0.09
+102.0,CNG,262,750.0,0,Daily,Occasionally,5,2,Monthly,Monthly,0,6.5,5,Apartment,0.1
+486.0,CNG,292,,1,Never,Never,7,3,Quarterly,Rarely,1,18.07,7,Independent,0.16
+326.0,Diesel,41,780.0,1,Daily,Daily,6,1,Monthly,Rarely,1,3.05,3,Rented Room,0.12
+150.0,CNG,94,174.0,0,Never,Weekly,3,1,Rarely,Never,0,2.43,2,Independent,0.05
+112.0,CNG,8,262.0,1,Never,Daily,6,0,Monthly,Never,1,12.08,1,Independent,0.06
+238.0,Petrol,201,317.0,0,Weekly,Never,9,3,Quarterly,Monthly,0,12.58,7,Independent,0.11
+323.0,Diesel,288,616.0,0,Never,Weekly,6,0,Quarterly,Monthly,0,1.42,4,Apartment,0.13
+383.0,Electric,79,509.0,1,Never,Occasionally,9,0,Rarely,Never,1,8.71,4,Apartment,0.09
+40.0,CNG,6,597.0,1,Daily,Daily,4,2,Monthly,Monthly,1,19.42,3,Rented Room,0.08
+131.0,Diesel,191,736.0,1,Monthly,Never,3,0,Rarely,Never,1,10.98,2,Independent,0.1
+219.0,Diesel,279,427.0,0,Never,Never,9,2,Never,Rarely,1,3.72,5,Apartment,0.11
+172.0,Petrol,37,591.0,0,Never,Weekly,8,2,Rarely,Monthly,1,8.55,1,Apartment,0.1
+124.0,CNG,50,714.0,1,Monthly,Occasionally,2,0,Quarterly,Rarely,0,9.13,4,Apartment,0.08
+,CNG,220,322.0,0,Daily,Occasionally,8,2,Quarterly,Yearly,1,18.69,4,Independent,0.09
+222.0,CNG,146,,0,,Occasionally,1,3,Rarely,Yearly,1,6.39,5,Bungalow,0.12
+396.0,CNG,287,,1,Monthly,Occasionally,1,1,Monthly,Yearly,0,18.48,2,Bungalow,0.16
+260.0,Electric,190,592.0,0,Never,Weekly,6,1,Never,Yearly,0,1.34,6,Apartment,0.08
+378.0,Electric,169,618.0,0,Never,Occasionally,9,3,Rarely,Never,1,9.38,4,Apartment,0.12
+412.0,CNG,81,437.0,0,Weekly,Occasionally,5,3,Rarely,Never,1,2.8,1,Bungalow,0.12
+7.0,Electric,118,,0,Never,Weekly,2,4,Quarterly,Monthly,1,12.63,6,Rented Room,0.05
+486.0,CNG,252,591.0,0,Never,Never,8,1,Rarely,Rarely,1,3.66,7,Bungalow,0.16
+221.0,CNG,48,654.0,0,Weekly,Weekly,1,1,Rarely,Rarely,0,10.06,4,Rented Room,0.11
+414.0,Petrol,149,750.0,0,Daily,Occasionally,6,0,Monthly,Monthly,1,5.4,3,Rented Room,0.15
+379.0,Diesel,183,169.0,0,Never,Daily,7,4,Rarely,Rarely,1,3.94,1,Rented Room,0.12
+419.0,Diesel,21,65.0,1,Monthly,Occasionally,6,4,Rarely,Never,0,5.8,1,Bungalow,0.1
+,Petrol,191,,0,Daily,Never,1,1,Rarely,Never,0,3.39,5,Apartment,0.04
+379.0,Petrol,283,475.0,0,Daily,Daily,1,3,Monthly,Rarely,0,1.42,4,Apartment,0.13
+166.0,Diesel,9,196.0,0,Never,Occasionally,0,4,Never,Monthly,1,6.45,6,Apartment,0.07
+121.0,CNG,59,505.0,0,Monthly,Weekly,8,4,Rarely,Never,0,3.35,2,Independent,0.07
+162.0,Electric,268,735.0,0,Monthly,Weekly,9,1,Monthly,Never,1,7.26,4,Rented Room,0.09
+389.0,Petrol,277,452.0,1,Never,Never,3,2,Rarely,Rarely,0,18.82,3,Rented Room,0.14
+221.0,Electric,203,180.0,0,Weekly,Never,7,4,Rarely,Never,0,10.24,7,Independent,0.08
+0.0,Electric,166,158.0,1,Never,Occasionally,0,2,Monthly,Monthly,1,2.92,3,Rented Room,0.02
+129.0,Electric,101,485.0,0,Never,Daily,3,2,Rarely,Rarely,1,3.85,3,Bungalow,0.06
+159.0,Diesel,201,213.0,0,Weekly,Daily,9,3,Monthly,Yearly,0,17.39,3,Rented Room,0.12
+193.0,Electric,129,50.0,0,Weekly,Never,7,2,Never,Monthly,0,12.13,2,Rented Room,0.07
+187.0,Electric,175,612.0,0,Weekly,Occasionally,1,4,Rarely,Rarely,1,15.41,3,Rented Room,0.1
+206.0,Diesel,195,197.0,1,Monthly,Daily,7,2,Monthly,Rarely,1,9.38,2,Rented Room,0.08
+142.0,Petrol,28,433.0,0,Monthly,Occasionally,5,3,Quarterly,Rarely,1,4.42,3,Bungalow,0.07
+225.0,CNG,19,556.0,1,Monthly,Never,9,4,Rarely,Never,1,7.55,3,Bungalow,0.09
+136.0,CNG,7,699.0,1,Never,Occasionally,0,1,Monthly,Rarely,0,19.54,2,Rented Room,0.1
+391.0,CNG,92,450.0,1,Never,Occasionally,0,1,Never,Monthly,1,13.91,7,Bungalow,0.12
+222.0,Diesel,82,432.0,0,Weekly,Occasionally,8,4,Quarterly,Yearly,1,4.26,3,Independent,0.1
+176.0,CNG,129,723.0,0,Weekly,Daily,5,2,Monthly,Monthly,1,1.73,2,Apartment,0.09
+,Petrol,163,725.0,0,Monthly,Never,9,2,Rarely,Yearly,0,8.46,2,Rented Room,0.16
+,Electric,286,392.0,1,Monthly,Occasionally,5,2,Never,Never,1,3.99,5,Bungalow,0.1
+57.0,Diesel,7,537.0,0,Monthly,Daily,4,4,Rarely,Never,1,9.67,1,Rented Room,0.08
+64.0,Diesel,185,123.0,0,Daily,Occasionally,7,4,Never,Yearly,0,14.22,5,Rented Room,0.08
+184.0,Petrol,124,162.0,0,Never,Daily,7,0,Never,Yearly,1,5.38,7,Rented Room,0.07
+162.0,Petrol,144,240.0,1,Daily,Never,3,3,Monthly,Monthly,1,16.28,4,Rented Room,0.09
+98.0,Electric,96,329.0,1,Daily,Occasionally,1,3,Quarterly,Never,0,9.78,2,Rented Room,0.05
+402.0,Petrol,265,403.0,0,Daily,Occasionally,9,3,Monthly,Monthly,1,12.28,6,Bungalow,0.16
+74.0,Electric,165,80.0,0,Weekly,Weekly,4,1,Monthly,Rarely,1,3.14,2,Bungalow,0.03
+0.0,Petrol,287,433.0,0,Monthly,Daily,7,2,Quarterly,Rarely,1,17.85,6,Bungalow,0.09
+283.0,CNG,174,92.0,1,Never,Daily,1,1,Monthly,Monthly,1,4.01,3,Bungalow,0.07
+68.0,Diesel,187,704.0,0,Monthly,Weekly,9,2,Never,Yearly,0,17.3,3,Apartment,0.12
+53.0,Petrol,10,463.0,0,Monthly,Occasionally,3,0,Rarely,Yearly,1,9.03,7,Apartment,0.06
+495.0,Diesel,231,448.0,0,,Never,5,3,Never,Rarely,0,7.47,3,Apartment,0.18
+220.0,Diesel,182,316.0,1,Never,Daily,9,0,Monthly,Monthly,1,1.22,5,Bungalow,0.07
+440.0,Petrol,152,237.0,1,Daily,Daily,4,1,Never,Monthly,1,15.5,5,Rented Room,0.13
+191.0,Electric,142,776.0,0,Daily,Weekly,2,3,Monthly,Never,1,4.12,7,Independent,0.09
+341.0,CNG,220,548.0,0,Never,Weekly,1,3,Quarterly,Yearly,0,10.78,2,Apartment,0.14
+121.0,CNG,38,795.0,1,Never,Never,8,1,Quarterly,Never,1,9.23,7,Apartment,0.08
+421.0,Electric,281,669.0,1,Never,Weekly,4,1,Rarely,Never,1,9.44,2,Rented Room,0.11
+4.0,CNG,228,,0,Weekly,Never,6,1,Never,Monthly,1,10.9,1,Independent,0.07
+392.0,CNG,131,531.0,1,Weekly,Weekly,7,0,Never,Monthly,1,5.06,6,Independent,0.11
+267.0,CNG,63,430.0,1,Never,Never,8,2,Quarterly,Never,1,5.59,5,Independent,0.08
+6.0,Diesel,180,573.0,0,Never,Occasionally,7,0,Monthly,Monthly,1,7.25,5,Rented Room,0.07
+96.0,Electric,0,473.0,1,Never,Daily,4,3,Monthly,Never,0,15.6,3,Apartment,0.06
+287.0,CNG,62,625.0,0,Daily,Weekly,3,1,Monthly,Never,0,16.21,7,Rented Room,0.14
+212.0,Petrol,39,554.0,1,Monthly,Daily,2,1,Monthly,Rarely,0,1.2,6,Apartment,0.07
+395.0,Diesel,54,237.0,0,Never,Weekly,5,4,Never,Monthly,1,8.8,4,Apartment,0.14
+224.0,Diesel,14,71.0,1,Never,Occasionally,9,3,Rarely,Monthly,0,8.54,5,Apartment,0.07
+,Diesel,7,369.0,0,Daily,Weekly,4,0,Never,Never,1,11.72,7,Independent,0.16
+57.0,CNG,99,633.0,0,Daily,Daily,6,0,Quarterly,Rarely,1,2.97,6,Bungalow,0.06
+249.0,Diesel,57,262.0,1,Monthly,Weekly,4,2,Never,Monthly,0,8.64,6,Apartment,0.09
+207.0,Diesel,261,466.0,0,Never,Weekly,1,1,Monthly,Never,0,14.07,7,Apartment,0.13
+222.0,Petrol,91,213.0,0,Never,Weekly,7,4,Never,Monthly,0,12.57,3,Bungalow,0.1
+216.0,CNG,112,131.0,0,Monthly,Daily,4,0,Quarterly,Rarely,0,18.71,6,Rented Room,0.11
+384.0,Diesel,161,161.0,0,Never,Occasionally,8,4,Never,Yearly,1,15.13,1,Bungalow,0.15
+,Petrol,259,686.0,0,Weekly,Weekly,2,3,Quarterly,Monthly,1,8.41,7,Bungalow,0.16
+324.0,Diesel,257,328.0,0,Weekly,Never,1,4,Quarterly,Yearly,0,12.14,3,Rented Room,0.15
+,Electric,263,737.0,0,Weekly,Never,5,1,Quarterly,Monthly,1,8.26,3,Apartment,0.09
+452.0,Electric,166,612.0,0,Never,Never,6,4,Never,Rarely,0,2.67,6,Apartment,0.12
+397.0,Diesel,9,362.0,1,Monthly,Never,4,3,Never,Rarely,1,18.38,1,Apartment,0.14
+202.0,Electric,104,190.0,0,Daily,Occasionally,3,1,Never,Rarely,0,19.06,5,Independent,0.09
+284.0,Petrol,230,489.0,0,Monthly,Occasionally,1,4,Monthly,Never,0,1.85,2,Apartment,0.11
+59.0,CNG,158,426.0,0,Never,Daily,9,3,Quarterly,Monthly,0,4.23,7,Apartment,0.06
+95.0,CNG,205,263.0,0,Never,Weekly,9,0,Monthly,Yearly,1,17.31,5,Apartment,0.09
+356.0,Electric,13,606.0,0,Monthly,Never,6,2,Never,Rarely,0,16.4,1,Bungalow,0.12
+277.0,Diesel,137,707.0,1,Never,Daily,7,2,Rarely,Monthly,0,3.42,1,Apartment,0.11
+153.0,Diesel,290,643.0,0,Weekly,Daily,8,1,Monthly,Never,0,11.57,7,Bungalow,0.13
+342.0,Electric,178,227.0,1,Monthly,Weekly,4,3,Rarely,Rarely,0,5.33,6,Independent,0.07
+151.0,Diesel,185,595.0,1,Never,Daily,3,0,Never,Never,0,19.16,6,Rented Room,0.12
+455.0,CNG,20,711.0,1,Never,Never,9,1,Quarterly,Monthly,0,11.21,6,Bungalow,0.14
+285.0,CNG,235,578.0,1,Never,Never,5,1,Never,Monthly,1,10.83,6,Apartment,0.11
+412.0,Petrol,282,370.0,0,Weekly,Never,7,1,Quarterly,Yearly,1,9.76,7,Bungalow,0.15
+446.0,Electric,149,264.0,0,Daily,Weekly,4,1,Rarely,Yearly,1,6.53,3,Independent,0.11
+98.0,CNG,156,138.0,0,Weekly,Weekly,6,0,Monthly,Yearly,1,19.87,6,Bungalow,0.09
+150.0,Electric,210,276.0,0,Weekly,Weekly,6,0,Monthly,Never,1,10.76,3,Apartment,0.07
+473.0,Petrol,76,250.0,1,Daily,Weekly,3,4,Monthly,Never,1,9.53,5,Apartment,0.12
+461.0,CNG,240,381.0,0,Never,Weekly,3,4,Monthly,Monthly,1,7.44,1,Independent,0.15
+56.0,Petrol,177,263.0,1,Daily,Never,3,4,Monthly,Monthly,1,6.22,2,Rented Room,0.05
+143.0,Diesel,262,548.0,1,Daily,Weekly,2,0,Quarterly,Rarely,1,17.98,7,Independent,0.11
+407.0,Diesel,121,115.0,1,Monthly,Occasionally,2,4,Quarterly,Rarely,1,8.58,2,Apartment,0.11
+440.0,Diesel,148,,0,Monthly,Daily,9,0,Monthly,Monthly,1,15.72,3,Independent,0.17
+372.0,CNG,160,202.0,0,Weekly,Daily,0,1,Never,Never,0,10.35,1,Apartment,0.12
+201.0,Electric,231,372.0,1,Weekly,Daily,4,1,Never,Never,1,2.59,5,Rented Room,0.06
+132.0,CNG,228,113.0,0,Daily,Never,9,1,Monthly,Never,1,6.03,1,Bungalow,0.06
+237.0,Petrol,101,499.0,0,Monthly,Daily,9,2,Rarely,Never,1,9.96,2,Rented Room,0.11
+69.0,Petrol,119,212.0,1,Weekly,Occasionally,6,1,Monthly,Rarely,1,9.28,2,Apartment,0.05
+179.0,Electric,51,697.0,1,Never,Occasionally,1,3,Quarterly,Never,1,19.29,3,Apartment,0.09
+252.0,Electric,43,582.0,0,Daily,Never,9,2,Quarterly,Yearly,0,19.73,3,Apartment,0.11
+349.0,CNG,240,453.0,0,Monthly,Never,1,1,Quarterly,Never,1,14.14,5,Independent,0.15
+338.0,CNG,155,188.0,0,Never,Weekly,3,0,Rarely,Never,0,13.23,1,Bungalow,0.12
+359.0,CNG,176,789.0,0,Daily,Never,9,3,Quarterly,Rarely,1,11.48,1,Apartment,0.16
+,Diesel,71,637.0,0,Weekly,Occasionally,7,4,Quarterly,Rarely,1,13.6,6,Apartment,0.17
+178.0,Petrol,236,112.0,0,Never,Occasionally,1,0,Monthly,Never,0,18.48,7,Rented Room,0.1
+406.0,CNG,38,319.0,0,Weekly,Occasionally,3,4,Monthly,Never,1,16.74,3,Apartment,0.15
+390.0,Electric,290,708.0,0,Monthly,Daily,2,0,Monthly,Never,0,11.53,5,Independent,0.13
+252.0,CNG,95,747.0,1,Weekly,Daily,3,3,Rarely,Yearly,1,6.47,4,Bungalow,0.1
+321.0,Diesel,227,628.0,1,Never,Weekly,0,2,Quarterly,Monthly,1,1.18,1,Independent,0.11
+226.0,Petrol,112,668.0,0,Never,Never,3,0,Quarterly,Yearly,1,10.06,4,Rented Room,0.12
+340.0,Electric,72,133.0,0,Monthly,Never,6,2,Rarely,Monthly,1,9.31,7,Independent,0.09
+159.0,Electric,110,696.0,1,Weekly,Never,0,2,Monthly,Rarely,0,11.86,6,Bungalow,0.08
+18.0,Diesel,283,62.0,0,Daily,Weekly,1,0,Never,Never,1,5.82,3,Rented Room,0.04
+251.0,Petrol,128,97.0,0,Never,Weekly,5,4,Quarterly,Never,1,12.97,3,Rented Room,0.1
+227.0,CNG,202,339.0,0,Monthly,Daily,6,0,Monthly,Monthly,0,7.16,5,Independent,0.1
+113.0,CNG,48,253.0,0,Never,Weekly,2,3,Never,Rarely,1,1.08,3,Independent,0.05
+401.0,CNG,2,352.0,1,Daily,Never,2,1,Never,Monthly,1,11.41,4,Bungalow,0.11
+100.0,CNG,143,670.0,1,Never,Occasionally,2,4,Never,Rarely,0,5.51,6,Apartment,0.07
+232.0,Petrol,207,728.0,0,Daily,Never,7,4,Quarterly,Monthly,1,10.78,5,Rented Room,0.13
+163.0,Diesel,66,,0,Monthly,Weekly,4,2,Never,Yearly,1,1.65,7,Rented Room,0.09
+364.0,Electric,38,239.0,0,Never,Never,1,4,Never,Never,0,17.89,1,Independent,0.11
+151.0,Diesel,120,79.0,0,Never,Daily,6,0,Never,Rarely,0,7.52,7,Independent,0.07
+372.0,CNG,184,,0,,Weekly,5,4,Never,Rarely,1,8.95,6,Rented Room,0.15
+57.0,CNG,140,311.0,1,Daily,Occasionally,9,3,Never,Never,1,1.23,1,Apartment,0.04
+189.0,CNG,276,335.0,1,Weekly,Never,9,3,Monthly,Yearly,0,14.67,3,Independent,0.1
+12.0,CNG,57,227.0,0,Daily,Occasionally,9,0,Quarterly,Monthly,1,16.41,3,Independent,0.06
+472.0,Petrol,13,,0,Weekly,Weekly,7,0,Never,Rarely,0,11.58,4,Rented Room,0.16
+51.0,Electric,148,349.0,0,Never,Occasionally,1,2,Monthly,Never,0,12.58,4,Apartment,0.06
+383.0,Diesel,13,250.0,0,Never,Daily,8,3,Monthly,Rarely,0,17.86,3,Bungalow,0.16
+278.0,Petrol,78,,0,Monthly,Weekly,9,1,Never,Monthly,0,13.12,3,Bungalow,0.11
+414.0,Petrol,129,560.0,1,Monthly,Daily,4,3,Never,Yearly,0,7.47,1,Rented Room,0.12
+440.0,Diesel,287,403.0,0,Monthly,Never,6,2,Quarterly,Rarely,1,11.09,7,Rented Room,0.17
+106.0,CNG,175,273.0,0,Weekly,Never,5,4,Rarely,Rarely,1,19.07,5,Apartment,0.1
+354.0,Electric,172,126.0,0,Monthly,Occasionally,9,0,Monthly,Never,0,11.52,5,Independent,0.1
+46.0,Electric,18,90.0,0,Monthly,Occasionally,8,2,Never,Monthly,1,6.87,4,Rented Room,0.03
+212.0,CNG,77,598.0,0,Never,Never,2,1,Never,Yearly,1,11.94,6,Bungalow,0.11
+95.0,CNG,163,289.0,0,Weekly,Never,5,0,Rarely,Yearly,0,5.78,5,Rented Room,0.06
+,Diesel,157,483.0,1,Monthly,Never,3,0,Quarterly,Never,1,8.1,2,Bungalow,0.13
+152.0,Diesel,123,633.0,0,Monthly,Daily,5,1,Monthly,Rarely,1,7.0,5,Independent,0.1
+457.0,CNG,153,175.0,1,Daily,Occasionally,3,4,Never,Monthly,1,14.21,7,Apartment,0.13
+257.0,CNG,149,707.0,0,,Occasionally,3,1,Monthly,Monthly,1,2.37,1,Bungalow,0.11
+161.0,CNG,268,450.0,0,Never,Occasionally,3,4,Quarterly,Never,1,12.95,6,Rented Room,0.11
+378.0,Electric,39,188.0,1,Weekly,Daily,1,1,Monthly,Never,0,6.77,5,Apartment,0.07
+417.0,Electric,261,625.0,0,Monthly,Occasionally,4,2,Monthly,Rarely,0,11.75,1,Bungalow,0.13
+261.0,Diesel,73,351.0,0,Never,Never,3,0,Never,Never,1,9.11,3,Bungalow,0.11
+483.0,CNG,228,192.0,1,Weekly,Never,1,0,Rarely,Yearly,1,16.26,3,Rented Room,0.14
+154.0,CNG,268,353.0,0,Weekly,Never,6,1,Monthly,Rarely,1,6.23,1,Bungalow,0.08
+445.0,Petrol,176,251.0,0,Monthly,Weekly,6,1,Monthly,Monthly,0,18.79,5,Rented Room,0.16
+459.0,Petrol,268,119.0,1,Weekly,Daily,2,1,Monthly,Yearly,0,10.24,5,Rented Room,0.12
+186.0,CNG,42,538.0,0,Never,Occasionally,9,4,Monthly,Rarely,1,11.85,2,Rented Room,0.11
+167.0,Diesel,163,196.0,0,Daily,Never,7,3,Quarterly,Monthly,1,7.32,3,Bungalow,0.09
+230.0,Petrol,226,354.0,0,Daily,Never,7,3,Monthly,Monthly,1,16.61,7,Apartment,0.13
+128.0,CNG,288,651.0,0,Daily,Never,8,3,Quarterly,Monthly,1,10.89,3,Apartment,0.11
+385.0,CNG,226,486.0,0,Weekly,Never,2,0,Never,Yearly,1,14.03,4,Rented Room,0.15
+155.0,Diesel,31,706.0,0,Weekly,Never,9,4,Monthly,Monthly,1,19.62,2,Bungalow,0.14
+230.0,Petrol,256,566.0,0,Daily,Occasionally,1,4,Rarely,Monthly,1,3.97,7,Rented Room,0.11
+53.0,Petrol,286,65.0,0,Daily,Daily,0,2,Rarely,Rarely,1,14.05,4,Apartment,0.07
+368.0,Diesel,95,549.0,0,Monthly,Occasionally,0,4,Never,Rarely,1,17.58,4,Independent,0.18
+119.0,Petrol,124,356.0,0,Never,Never,6,2,Monthly,Monthly,1,9.69,4,Independent,0.08
+125.0,Petrol,79,635.0,0,Monthly,Daily,5,1,Monthly,Monthly,1,6.86,7,Apartment,0.09
+400.0,Diesel,132,256.0,0,Daily,Occasionally,3,1,Monthly,Yearly,1,15.67,2,Rented Room,0.16
+95.0,Petrol,214,176.0,0,Never,Daily,3,4,Never,Monthly,0,13.44,5,Rented Room,0.08
+,CNG,297,115.0,0,Daily,Weekly,7,0,Never,Rarely,0,1.34,5,Bungalow,0.05
+318.0,CNG,270,90.0,0,Never,Weekly,4,1,Monthly,Yearly,0,5.79,4,Bungalow,0.1
+341.0,Petrol,160,611.0,0,Weekly,Weekly,1,0,Quarterly,Yearly,0,12.52,1,Apartment,0.15
+62.0,CNG,167,344.0,1,Monthly,Never,4,3,Never,Never,1,8.56,5,Apartment,0.06
+273.0,CNG,10,747.0,1,Monthly,Weekly,7,3,Rarely,Yearly,1,18.8,1,Independent,0.13
+94.0,Electric,263,425.0,0,Daily,Weekly,7,1,Rarely,Never,0,18.31,2,Independent,0.09
+499.0,Petrol,287,259.0,1,Daily,Occasionally,8,1,Rarely,Yearly,1,14.91,6,Apartment,0.15
+300.0,Petrol,114,98.0,1,Monthly,Never,5,0,Rarely,Yearly,1,12.62,1,Apartment,0.09
+64.0,Petrol,143,209.0,0,Daily,Daily,5,1,Monthly,Rarely,0,13.56,2,Bungalow,0.07
+408.0,CNG,198,637.0,0,Monthly,Weekly,4,0,Monthly,Rarely,0,9.24,4,Bungalow,0.15
+140.0,Petrol,159,,0,Weekly,Weekly,6,2,Monthly,Yearly,1,13.23,3,Apartment,0.11
+196.0,CNG,2,775.0,0,Weekly,Daily,3,2,Never,Yearly,0,13.49,6,Independent,0.12
+88.0,Electric,225,549.0,1,Monthly,Occasionally,7,2,Never,Monthly,1,13.62,4,Apartment,0.07
+108.0,CNG,115,214.0,1,Daily,Daily,1,4,Rarely,Never,1,1.1,2,Bungalow,0.04
+87.0,CNG,187,62.0,0,Never,Weekly,2,0,Quarterly,Yearly,0,16.11,5,Rented Room,0.07
+417.0,Diesel,22,269.0,0,Never,Daily,8,3,Rarely,Rarely,0,12.74,1,Rented Room,0.15
+58.0,Diesel,235,69.0,1,Monthly,Never,9,2,Never,Yearly,0,1.13,2,Independent,0.03
+359.0,Diesel,68,481.0,0,Never,Weekly,7,1,Rarely,Yearly,0,1.66,2,Bungalow,0.12
+160.0,CNG,267,387.0,0,Monthly,Daily,8,4,Monthly,Never,0,17.08,4,Bungalow,0.12
+379.0,Diesel,16,475.0,0,Never,Daily,0,0,Rarely,Never,1,18.16,6,Rented Room,0.17
+368.0,Petrol,140,136.0,1,Weekly,Daily,1,0,Monthly,Yearly,1,15.35,6,Apartment,0.11
+61.0,Petrol,74,622.0,1,Never,Never,2,1,Never,Rarely,1,6.36,2,Apartment,0.06
+205.0,Petrol,55,390.0,0,Daily,Occasionally,3,2,Rarely,Yearly,1,5.32,2,Independent,0.08
+54.0,Electric,292,322.0,0,Never,Weekly,7,0,Monthly,Rarely,1,7.37,1,Independent,0.05
+172.0,Electric,263,769.0,0,Monthly,Weekly,3,4,Never,Monthly,1,1.74,5,Rented Room,0.08
+127.0,Petrol,146,620.0,0,Daily,Weekly,5,4,Rarely,Monthly,0,13.35,6,Rented Room,0.11
+226.0,Electric,129,,0,Never,Never,7,3,Rarely,Rarely,0,6.91,1,Independent,0.08
+,Petrol,236,251.0,0,Monthly,Occasionally,6,2,Monthly,Monthly,0,12.82,6,Rented Room,0.11
+409.0,CNG,189,524.0,0,Weekly,Daily,9,3,Quarterly,Monthly,0,1.24,2,Independent,0.13
+415.0,Electric,1,646.0,0,Weekly,Daily,8,4,Never,Yearly,1,5.69,1,Bungalow,0.11
+267.0,CNG,103,124.0,0,Daily,Weekly,9,0,Monthly,Monthly,1,17.22,2,Apartment,0.11
+233.0,Petrol,198,81.0,0,Weekly,Occasionally,8,1,Never,Yearly,0,2.7,4,Rented Room,0.07
+89.0,Petrol,195,444.0,1,Monthly,Never,8,2,Rarely,Rarely,0,8.94,4,Bungalow,0.07
+5.0,CNG,38,557.0,0,,Occasionally,6,3,Monthly,Monthly,0,14.57,1,Bungalow,0.08
+171.0,Diesel,250,767.0,0,Daily,Never,2,2,Never,Yearly,1,11.31,5,Rented Room,0.14
+303.0,Electric,104,759.0,1,Daily,Occasionally,1,2,Quarterly,Rarely,0,7.33,6,Independent,0.09
+185.0,Petrol,255,566.0,1,Never,Occasionally,6,4,Quarterly,Yearly,1,7.13,5,Independent,0.09
+291.0,Electric,16,414.0,0,Weekly,Weekly,9,1,Never,Never,0,14.77,3,Rented Room,0.1
+385.0,Electric,208,,1,Never,Occasionally,5,2,Never,Rarely,1,8.22,6,Bungalow,0.08
+236.0,CNG,6,420.0,1,Never,Daily,1,0,Rarely,Yearly,0,11.54,6,Independent,0.09
+215.0,Petrol,257,449.0,0,Daily,Occasionally,8,4,Rarely,Rarely,1,5.92,4,Apartment,0.1
+304.0,Electric,289,332.0,1,Weekly,Daily,6,3,Rarely,Never,1,12.51,6,Rented Room,0.09
+104.0,Petrol,100,441.0,0,Never,Daily,9,3,Rarely,Never,0,7.65,4,Apartment,0.08
+309.0,CNG,230,689.0,1,Daily,Weekly,8,2,Rarely,Yearly,0,13.81,5,Apartment,0.13
+322.0,Electric,117,609.0,0,Weekly,Weekly,5,1,Quarterly,Rarely,0,5.6,2,Rented Room,0.1
+190.0,Electric,289,383.0,0,,Weekly,8,3,Never,Never,0,19.21,7,Rented Room,0.11
+162.0,Petrol,85,140.0,0,Weekly,Daily,5,0,Monthly,Monthly,0,10.87,2,Bungalow,0.08
+272.0,Diesel,127,687.0,0,Monthly,Occasionally,4,0,Monthly,Rarely,1,15.76,6,Apartment,0.16
+270.0,CNG,122,608.0,0,Monthly,Never,5,4,Never,Yearly,0,13.72,1,Independent,0.14
+263.0,Petrol,157,191.0,0,Monthly,Weekly,6,1,Quarterly,Never,0,10.58,6,Rented Room,0.1
+253.0,CNG,239,773.0,0,Daily,Daily,8,3,Quarterly,Monthly,0,13.07,2,Apartment,0.15
+435.0,CNG,116,498.0,0,Daily,Daily,6,0,Never,Rarely,0,14.37,2,Rented Room,0.16
+250.0,Diesel,280,59.0,0,Monthly,Occasionally,6,1,Never,Yearly,1,5.65,6,Independent,0.09
+191.0,Petrol,180,333.0,0,Weekly,Weekly,0,0,Rarely,Monthly,1,8.65,1,Rented Room,0.09
+490.0,Petrol,290,490.0,1,Monthly,Never,0,4,Never,Never,1,16.74,5,Bungalow,0.16
+372.0,Petrol,225,309.0,0,Weekly,Never,6,3,Quarterly,Rarely,1,15.28,3,Rented Room,0.15
+34.0,Petrol,4,166.0,1,Never,Daily,0,1,Rarely,Yearly,1,17.55,1,Bungalow,0.05
+35.0,CNG,78,210.0,1,Daily,Weekly,6,4,Rarely,Rarely,0,15.31,6,Rented Room,0.06
+21.0,Diesel,273,150.0,0,Never,Weekly,1,2,Rarely,Yearly,0,13.12,1,Apartment,0.07
+367.0,Petrol,30,327.0,1,Weekly,Weekly,8,2,Rarely,Never,0,10.17,4,Bungalow,0.11
+416.0,Electric,101,84.0,0,Weekly,Occasionally,6,4,Quarterly,Yearly,0,14.65,6,Bungalow,0.11
+21.0,Diesel,174,652.0,1,Weekly,Occasionally,7,1,Rarely,Rarely,0,18.1,1,Rented Room,0.09
+16.0,CNG,215,376.0,0,Weekly,Never,9,1,Rarely,Yearly,0,15.07,4,Apartment,0.08
+36.0,Diesel,176,180.0,0,Never,Weekly,9,1,Monthly,Yearly,1,1.01,3,Apartment,0.04
+259.0,Diesel,177,195.0,0,Weekly,Occasionally,8,1,Never,Yearly,1,9.59,4,Rented Room,0.11
+337.0,Petrol,237,689.0,1,Daily,Daily,9,3,Rarely,Yearly,1,19.17,3,Bungalow,0.15
+368.0,Electric,227,783.0,0,,Never,2,4,Monthly,Yearly,1,17.08,6,Independent,0.14
+480.0,Diesel,105,473.0,0,Never,Occasionally,0,0,Rarely,Monthly,0,5.99,5,Apartment,0.16
+472.0,Electric,299,431.0,0,Daily,Occasionally,8,4,Quarterly,Rarely,1,15.55,3,Independent,0.15
+216.0,Electric,19,117.0,0,Monthly,Daily,7,3,Quarterly,Monthly,1,10.77,6,Rented Room,0.07
+258.0,Electric,26,135.0,1,Never,Occasionally,5,2,Rarely,Monthly,0,4.24,4,Independent,0.05
+458.0,Petrol,107,161.0,0,Never,Daily,5,2,Quarterly,Never,1,18.92,5,Apartment,0.16
+200.0,Diesel,40,569.0,0,Weekly,Occasionally,4,2,Quarterly,Monthly,1,3.69,1,Bungalow,0.1
+116.0,Petrol,48,607.0,1,Weekly,Weekly,5,0,Quarterly,Yearly,1,12.39,6,Rented Room,0.08
+103.0,Diesel,7,,0,Monthly,Weekly,4,3,Monthly,Yearly,1,15.85,4,Rented Room,0.12
+112.0,Diesel,94,,0,Never,Never,2,3,Quarterly,Monthly,1,9.59,4,Independent,0.08
+213.0,Petrol,223,631.0,1,Daily,Occasionally,9,3,Quarterly,Monthly,1,4.39,3,Apartment,0.09
+169.0,Electric,187,715.0,0,Weekly,Occasionally,2,4,Monthly,Never,0,15.34,3,Rented Room,0.1
+416.0,Electric,284,76.0,1,Daily,Daily,8,1,Never,Yearly,1,5.23,3,Independent,0.08
+445.0,CNG,41,315.0,0,Monthly,Never,9,1,Quarterly,Rarely,0,10.42,1,Bungalow,0.14
+222.0,Petrol,91,213.0,0,Never,Weekly,7,4,Never,Monthly,0,12.57,3,Bungalow,0.1
+127.0,Petrol,231,647.0,0,Monthly,Daily,2,0,Monthly,Rarely,1,1.39,1,Apartment,0.08
+103.0,Electric,97,373.0,0,Never,Never,2,2,Monthly,Yearly,0,2.73,4,Independent,0.05
+385.0,Electric,244,733.0,0,Monthly,Occasionally,1,3,Rarely,Yearly,0,11.19,6,Bungalow,0.13
+441.0,Diesel,64,525.0,1,Weekly,Daily,3,4,Rarely,Never,1,12.33,5,Apartment,0.15
+197.0,CNG,59,393.0,1,Never,Never,0,3,Quarterly,Never,1,17.2,5,Bungalow,0.1
+52.0,Electric,145,340.0,0,Never,Never,3,0,Quarterly,Never,1,15.14,1,Independent,0.06
+38.0,Diesel,202,543.0,0,Never,Occasionally,3,1,Monthly,Monthly,1,2.41,1,Rented Room,0.06
+,Electric,135,142.0,0,Weekly,Daily,2,4,Rarely,Never,1,7.14,7,Apartment,0.1
+239.0,CNG,212,614.0,1,Weekly,Weekly,2,3,Never,Never,1,11.26,1,Independent,0.11
+383.0,Diesel,286,478.0,1,Daily,Occasionally,1,2,Rarely,Yearly,1,13.36,5,Apartment,0.15
+177.0,Petrol,237,523.0,0,Monthly,Daily,3,0,Never,Monthly,0,2.64,3,Independent,0.09
+178.0,Electric,192,541.0,0,Daily,Occasionally,8,0,Quarterly,Monthly,1,9.83,5,Bungalow,0.08
+99.0,CNG,59,414.0,1,Monthly,Daily,4,1,Quarterly,Yearly,0,12.69,1,Independent,0.07
+426.0,CNG,278,72.0,0,Never,Daily,8,4,Monthly,Monthly,1,1.93,7,Bungalow,0.11
+115.0,Petrol,174,788.0,0,Weekly,Daily,6,4,Monthly,Yearly,1,19.06,5,Rented Room,0.13
+335.0,Petrol,115,487.0,1,Daily,Weekly,7,1,Rarely,Yearly,0,19.86,6,Rented Room,0.13
+298.0,Petrol,101,777.0,0,Monthly,Never,1,1,Never,Yearly,0,4.74,6,Independent,0.12
+134.0,Diesel,292,564.0,1,Daily,Weekly,2,3,Quarterly,Yearly,1,11.97,5,Rented Room,0.1
+480.0,Petrol,85,252.0,0,Never,Occasionally,3,1,Rarely,Never,0,5.43,6,Bungalow,0.13
+53.0,Electric,155,498.0,0,,Weekly,0,3,Quarterly,Never,1,18.63,5,Apartment,0.08
+499.0,Petrol,41,514.0,1,Monthly,Daily,6,4,Monthly,Rarely,0,4.14,3,Rented Room,0.13
+191.0,Electric,65,479.0,0,Weekly,Never,3,2,Rarely,Rarely,0,14.26,2,Rented Room,0.09
+171.0,Petrol,180,440.0,0,Never,Occasionally,6,2,Quarterly,Yearly,1,19.23,4,Bungalow,0.12
+308.0,Electric,14,615.0,0,Weekly,Never,6,2,Never,Rarely,1,3.41,2,Apartment,0.09
+143.0,Electric,72,269.0,0,Daily,Occasionally,0,3,Quarterly,Rarely,1,9.39,3,Rented Room,0.06
+45.0,Electric,284,424.0,0,Weekly,Daily,4,2,Quarterly,Monthly,0,13.45,1,Apartment,0.07
+61.0,CNG,81,681.0,1,Never,Never,2,3,Quarterly,Monthly,0,15.98,3,Rented Room,0.09
+186.0,Diesel,10,603.0,0,,Occasionally,2,2,Rarely,Yearly,0,15.73,1,Independent,0.13
+185.0,Petrol,148,371.0,1,Never,Occasionally,6,4,Rarely,Rarely,1,17.57,3,Rented Room,0.1
+,CNG,119,362.0,0,Daily,Occasionally,3,1,Rarely,Monthly,1,12.77,1,Rented Room,0.13
+419.0,CNG,224,322.0,0,Daily,Occasionally,8,1,Never,Never,1,1.43,5,Rented Room,0.12
+468.0,CNG,272,484.0,0,Weekly,Daily,8,0,Monthly,Monthly,0,17.41,7,Rented Room,0.18
+403.0,Petrol,269,703.0,0,Never,Never,7,2,Monthly,Rarely,1,8.85,7,Apartment,0.16
+322.0,Electric,52,111.0,1,Daily,Weekly,0,2,Never,Yearly,1,5.21,4,Bungalow,0.06
+475.0,Electric,182,245.0,0,Weekly,Never,1,4,Quarterly,Rarely,1,18.71,1,Independent,0.14
+360.0,Petrol,11,108.0,0,Monthly,Never,5,4,Monthly,Rarely,1,19.74,2,Bungalow,0.14
+97.0,CNG,142,308.0,0,Daily,Weekly,4,4,Never,Never,1,3.23,6,Bungalow,0.06
+22.0,Electric,4,436.0,1,Weekly,Weekly,4,4,Never,Yearly,0,5.91,4,Independent,0.03
+344.0,CNG,55,753.0,0,Weekly,Weekly,5,2,Monthly,Monthly,0,7.51,3,Apartment,0.14
+9.0,Diesel,159,345.0,0,Never,Occasionally,3,0,Rarely,Never,0,19.85,4,Rented Room,0.09
+90.0,Petrol,241,624.0,0,Never,Occasionally,1,0,Quarterly,Never,1,7.97,2,Bungalow,0.09
+201.0,Diesel,119,247.0,1,Never,Weekly,0,1,Never,Yearly,1,3.9,3,Independent,0.07
+303.0,Electric,65,239.0,0,Daily,Weekly,0,0,Monthly,Yearly,0,14.54,3,Rented Room,0.09
+1.0,Electric,98,232.0,0,Monthly,Never,0,2,Quarterly,Monthly,0,3.39,1,Apartment,0.02
+476.0,Electric,216,685.0,0,Weekly,Occasionally,3,2,Never,Never,1,10.89,4,Rented Room,0.14
+147.0,Petrol,13,719.0,1,Weekly,Occasionally,8,1,Quarterly,Rarely,1,5.18,5,Bungalow,0.08
+,Electric,284,713.0,0,Weekly,Daily,9,2,Quarterly,Never,0,4.75,3,Independent,0.09
+279.0,CNG,150,514.0,0,Daily,Weekly,0,3,Never,Yearly,0,14.06,7,Apartment,0.13
+251.0,Electric,36,759.0,1,Never,Occasionally,8,2,Rarely,Never,0,4.49,3,Independent,0.08
+117.0,Diesel,68,651.0,1,Monthly,Daily,5,3,Never,Monthly,0,19.2,3,Independent,0.11
+149.0,Diesel,38,363.0,0,Monthly,Occasionally,2,4,Rarely,Rarely,1,19.29,4,Rented Room,0.12
+100.0,CNG,114,,0,,Weekly,4,4,Never,Never,1,11.9,6,Rented Room,0.09
+385.0,CNG,147,,1,Weekly,Daily,7,3,Quarterly,Never,0,15.45,3,Independent,0.12
+455.0,Electric,28,127.0,0,Daily,Daily,1,3,Rarely,Yearly,1,5.11,2,Rented Room,0.09
+386.0,Petrol,71,75.0,0,Weekly,Never,2,0,Rarely,Never,1,9.52,6,Bungalow,0.11
+300.0,Electric,104,653.0,1,Monthly,Daily,7,3,Rarely,Monthly,1,18.36,5,Bungalow,0.11
+263.0,Diesel,250,596.0,0,Monthly,Never,9,0,Quarterly,Monthly,0,2.33,1,Independent,0.12
+269.0,Diesel,97,96.0,0,Monthly,Weekly,6,1,Never,Yearly,0,1.46,4,Apartment,0.08
