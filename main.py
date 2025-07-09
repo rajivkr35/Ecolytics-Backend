@@ -7,7 +7,7 @@ app = FastAPI(title="Carbon Footprint Estimator API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # or ["http://127.0.0.1:3000"] for stricter
+    allow_origins=["https://ecolytics.netlify.app/"],  # or ["http://127.0.0.1:3000"] for stricter
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
